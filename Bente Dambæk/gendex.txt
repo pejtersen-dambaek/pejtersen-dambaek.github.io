@@ -1,0 +1,938 @@
+i1.htm#i287||Anton //|19-2-2001||||
+i2.htm#i387||Baltazar Gebhard //|||1747||
+i3.htm#i647||Clara Emmy Marie // Kollektrise|12-9-1881|Frederiksberg|||
+i4.htm#i576||Gabriel //|||||
+i5.htm#i924||Helga Clotilde //|||||
+i6.htm#i574||Inger Nielsdatter //|||||
+i7.htm#i465||Johanne //|||1677||
+i8.htm#i928||Johanne Marie //|||||
+i9.htm#i546||Mette //|||||
+i10.htm#i617||Sofie //|||||
+i11.htm#i535||Søren //|Ca. 1500||||
+i12.htm#i73||Tinne //|15-1-1895||5-12-1939||
+i13.htm#i37||XX //|||1756||
+i14.htm#i878|ALBECK|Anna M. /ALBECK/||Frederiksberg|||
+i15.htm#i700|ALTER|Anne Marie /ALTER/|||||
+i16.htm#i544|ANCHERSDATTER|Mette /ANCHERSDATTER/|Ca. 1420||||
+i17.htm#i228|ANDERSDATTER|Magdalene /ANDERSDATTER/|||1676||
+i18.htm#i23|ANDERSDATTER|Maren /ANDERSDATTER/|||1768||
+i19.htm#i816|ANDERSEN|A.O. /ANDERSEN/ Skibredder|1875||1934||
+i20.htm#i787|ANDERSEN|Anders Kristian /ANDERSEN/ Gårdmand|||||
+i21.htm#i610|ANDERSEN|Axel Johannes Oscar /ANDERSEN/ Malermester|18-8-1890|Uvelse|||
+i22.htm#i614|ANDERSEN|Bente Vibeke /ANDERSEN/|27-5-1954|Slangerup|||
+i23.htm#i616|ANDERSEN|Caroline Christine /ANDERSEN/|17-10-1878|Gyrstinge Ringsted|||
+i24.htm#i608|ANDERSEN|Edgar Knud /ANDERSEN/ Malersvend|13-8-1917|Slangerup|1988|Slangerup|
+i25.htm#i448|ANDERSEN|Hans /ANDERSEN/ Husmand-Væver|13-1-1831|Dalby|||
+i26.htm#i443|ANDERSEN|Hans /ANDERSEN/ Indsidder Mand i Skoven &amp; smed|Ca. 1800|Dråby|Før 1850|Formodentlig i Krogstrup|
+i27.htm#i786|ANDERSEN|Helge Tormod /ANDERSEN/ Gårdmand|25-4-1923|Vindinge|||
+i28.htm#i407|ANDERSEN|Inge Lissen /ANDERSEN/ Advokat|8-7-1942|Nordre Banevej 15 Hillerød|||
+i29.htm#i607|ANDERSEN|Jacob /ANDERSEN/|3-1-1840|Dalbye|||
+i30.htm#i613|ANDERSEN|John Axel /ANDERSEN/|11-2-1939|Hillerød|||
+i31.htm#i627|ANDERSEN|Jørgen Peter Svend /ANDERSEN/ Gårdejer|||||
+i32.htm#i632|ANDERSEN|Kaj /ANDERSEN/|16-2-1919|Slangerup|||
+i33.htm#i642|ANDERSEN|Morten /ANDERSEN/ Smedemester|||||
+i34.htm#i612|ANDERSEN|Niels Erik /ANDERSEN/ Malersvend|29-6-1916|Slangerup|||
+i35.htm#i631|ANDERSEN|Peter /ANDERSEN/|24-7-1915|Slangerup|||
+i36.htm#i690|ANDERSEN|Sophie Frederikke Mathilde /ANDERSEN/|||||
+i37.htm#i141|ANDERSSON|Ruth /ANDERSSON/|29-5-1928||||
+i38.htm#i15|AXELSDATTER|Kirsten /AXELSDATTER/|1794||1877||
+i39.htm#i158|BACH|Jesper /BACH/|26-9-1985||||
+i40.htm#i271|BACH|Jette /BACH/|||||
+i41.htm#i272|BACH|Kasper /BACH/|17-1-1980||||
+i42.htm#i157|BACH|Palle /BACH/|12-11-1961||||
+i43.htm#i159|BACH|Peter /BACH/|20-1-1992||||
+i44.htm#i745|BAHUS|Mette Kirstine /BAHUS/|Ca. 1690||||
+i45.htm#i855|BALVIG|Christian /BALVIG/|1773||1819||
+i46.htm#i854|BALVIG|Elisabeth Christiane Birgitte /BALVIG/|12-4-1813|Nibe|30-6-1885|København Garnisionsk.|
+i47.htm#i844|BANG|Adelaide Margrete /BANG/|23-9-1804|København|17-6-1861|Frederikslund Søllerød|
+i48.htm#i845|BANG|Hans Jørgen /BANG/ Birkedommer &amp; Justitsråd|1758||1826||
+i49.htm#i918|BARTHOLDY|Albert /BARTHOLDY/|25-3-1861|KBH|||
+i50.htm#i907|BARTHOLDY|Alfred Carl Valdemar /BARTHOLDY/ Revisor|15-6-1893|Frederiksberg|1952||
+i51.htm#i911|BARTHOLDY|Carl Oscar Johan /BARTHOLDY/ Bogholder|25-12-1860|Holmen Sokkelund KBH|||
+i52.htm#i915|BARTHOLDY|Carl Valdemar /BARTHOLDY/|7-3-1833|KBH|||
+i53.htm#i913|BARTHOLDY|Ebba Anna Karen /BARTHOLDY/|30-12-1894|KBH|||
+i54.htm#i910|BARTHOLDY|Hans Ulrik /BARTHOLDY/ Maskinmester|21-11-1925|Frederiksberg|||
+i55.htm#i619|BARTHOLDY|Helge /BARTHOLDY/ Maskinmester|28-7-1928|København|||
+i56.htm#i932|BARTHOLDY|Inger Johanne /BARTHOLDY/|1916|Glostrup|||
+i57.htm#i909|BARTHOLDY|Johan /BARTHOLDY/|30-3-1923|København|||
+i58.htm#i927|BARTHOLDY|Johan Poul /BARTHOLDY/|||||
+i59.htm#i914|BARTHOLDY|Johannes /BARTHOLDY/|26-10-1897|KBH|||
+i60.htm#i925|BARTHOLDY|Johannes Poul /BARTHOLDY/|1813|KBH|21-3-1892|Holmens sogn|
+i61.htm#i921|BARTHOLDY|Johannes Thorvald /BARTHOLDY/|1876|KBH|||
+i62.htm#i922|BARTHOLDY|Laura Emilie /BARTHOLDY/|||||
+i63.htm#i933|BARTHOLDY|Marie Vilhemine Johanne /BARTHOLDY/|31-7-1891|KBH|||
+i64.htm#i919|BARTHOLDY|Valborg Constantia Ellen /BARTHOLDY/|1872|KBH|||
+i65.htm#i920|BARTHOLDY|Vilhelm Axel Robert /BARTHOLDY/|1875|KBH|||
+i66.htm#i917|BARTHOLDY|Vilhemine Bolivia /BARTHOLDY/|1854|KBH|||
+i67.htm#i862|BARTSCH|Ellen Marie /BARTSCH/|1868||1936||
+i68.htm#i501|BENDIXDATTER|Karen /BENDIXDATTER/|31-3-1654|Kolding|16-6-1730||
+i69.htm#i903|BENDSEN|C.C. /BENDSEN/|||||
+i70.htm#i868|BERING|Johanne V. /BERING/|||||
+i71.htm#i486|BERTELSDATTER|Karen /BERTELSDATTER/|16-12-1602|Taulov|1682|Kolding|
+i72.htm#i210|BERTELSEN|Hans /BERTELSEN/|||||
+i73.htm#i528|BERTELSEN|Jesper /BERTELSEN/|Ca. 1460||||
+i74.htm#i481|BERTELSEN|Ude /BERTELSEN/|1643||1678|Kolding|
+i75.htm#i751|BIERING|Henning Clausen /BIERING/|||||
+i76.htm#i743|BIRKEDAL|Hans Jacob /BIRKEDAL/|||||
+i77.htm#i311|BISCHOFF|Frederik Osvang /BISCHOFF/|29-11-1996||||
+i78.htm#i312|BISCHOFF|Helene Osvang /BISCHOFF/|27-7-1999||||
+i79.htm#i310|BISCHOFF|Sabine /BISCHOFF/|23-7-1962||||
+i80.htm#i514|BJERREGÅRD|Karen Jensdatter /BJERREGÅRD/|7 6||||
+i81.htm#i916|BLOCH|Vilhemine Constantia Napoline /BLOCH/|||||
+i82.htm#i421|BONDE|Christian Lauesen /BONDE/ Dagleier|1822|Nustrup|||
+i83.htm#i881|BOSERUP|C. /BOSERUP/ Provst|||||
+i84.htm#i842|BRANDT|Anna /BRANDT/|1771||1805||
+i85.htm#i749|BRANDT|Else Christensdatter /BRANDT/|||||
+i86.htm#i266|BREGENDORF|Grethe Lykke /BREGENDORF/|18-2-1953||||
+i87.htm#i492|BRUUN|Hans Hansen /BRUUN/|23-4-1665|Kolding|21-8-1713|Kolding|
+i88.htm#i497|BRUUN|Hans Madsen /BRUUN/|1611|Kolding|1651|Kolding|
+i89.htm#i496|BRUUN|Kirsten Hansdatter /BRUUN/|1640||24-3-1724|Kolding|
+i90.htm#i479|BRUUN|Kirstine Hansdatter /BRUUN/|Ca. 1709|Kolding Brusk Herred|20-7-1768|Ølgod, Ølgod sogn|
+i91.htm#i506|BRØLLUND|Christen Mogensen /BRØLLUND/|1674|Nysogn|4-7-1741|Sdr Nissum|
+i92.htm#i477|BRØLLUND|Dorthe Cathrine Christensdatter /BRØLLUND/|Ca. 1709||Efter 1787|Ølgod|
+i93.htm#i539|BUCH|Jep Nielsen /BUCH/|1460|Nagbøl Skanderup|||
+i94.htm#i538|BUCH|Knud Jepsen /BUCH/|1460|Nagbøl Skanderup|||
+i95.htm#i537|BUCH|Mads Knudsen /BUCH/|||1584|Egtved|
+i96.htm#i536|BUCH|Maren Madsdatter /BUCH/|||||
+i97.htm#i540|BUCH|Niels Iversn /BUCH/|||||
+i98.htm#i283|BÜNGEN|Hans /BÜNGEN/|||||
+i99.htm#i593|CHRISOPHERSEN|Lars /CHRISOPHERSEN/|Ca. 1818|Sønder Dalby|||
+i100.htm#i747|CHRISTENSDATTER|Ane /CHRISTENSDATTER/|||||
+i101.htm#i562|CHRISTENSDATTER|Ellen /CHRISTENSDATTER/|Ca. 1811||||
+i102.htm#i515|CHRISTENSDATTER|Karen /CHRISTENSDATTER/|||||
+i103.htm#i689|CHRISTENSEN|Anders /CHRISTENSEN/|||||
+i104.htm#i430|CHRISTENSEN|Anna Sofie /CHRISTENSEN/|14-12-1872|Vejleby|||
+i105.htm#i461|CHRISTENSEN|Friderich /CHRISTENSEN/|Ca. 1751||||
+i106.htm#i434|CHRISTENSEN|Maren Kirstine /CHRISTENSEN/|6-9-1838|Sundbyøster Amager|||
+i107.htm#i139|CHRISTOFFERSEN|Thomas Peter /CHRISTOFFERSEN/|||||
+i108.htm#i138|CHRISTOFFERSEN|Tom /CHRISTOFFERSEN/|12-1-1951||22-11-1959||
+i109.htm#i586|CHRISTOPHERSDATTER|Ane Kirstine /CHRISTOPHERSDATTER/|Ca. 1834|Dalby|||
+i110.htm#i584|CHRISTOPHERSDATTER|Inger Marie /CHRISTOPHERSDATTER/|Ca. 1823|Dalby|||
+i111.htm#i585|CHRISTOPHERSDATTER|Karen Sophie /CHRISTOPHERSDATTER/|Ca. 1826|Dalby|||
+i112.htm#i594|CHRISTOPHERSDATTER|Maren /CHRISTOPHERSDATTER/|Ca. 1820|Sønder Dalby|||
+i113.htm#i577|CHRISTOPHERSEN|Niels /CHRISTOPHERSEN/ Tjenestekarl|19-3-1818|Dalby|||
+i114.htm#i114|CLAUSEN|Anders /CLAUSEN/|1742|Lille Ryttinge|1784|42 År Gammel I Lille Ryttinge|
+i117.htm#i111|CLAUSEN|Hans /CLAUSEN/|1736|Lille Ryttinge|1737|14 Uger Gammel|
+i115.htm#i113|CLAUSEN|Hans /CLAUSEN/|1740|Lille Ryttinge|||
+i116.htm#i31|CLAUSEN|Hans /CLAUSEN/|1677||1735||
+i118.htm#i119|CLAUSEN|Hemming /CLAUSEN/|1758|St.Ryttinge|1804|Sjølle|
+i119.htm#i112|CLAUSEN|Kirsten /CLAUSEN/|1738|Lille Ryttinge|1741|3, 5 År Gammel|
+i121.htm#i116|CLAUSEN|Kirsten /CLAUSEN/|1750|St.Ryttinge|1751|St. Ryttinge|
+i120.htm#i118|CLAUSEN|Kirsten /CLAUSEN/|1754|St. Ryttinge|3.SEPåske1756|St. Ryttinge|
+i122.htm#i29|CLAUSEN|Ole /CLAUSEN/|1745|Lille Ryttinge|1816|St.Ryttinge|
+i125.htm#i115|CLAUSEN|Peder /CLAUSEN/|1748|St.Ryttinge|19.S.e trin1749|St. Ryttinge|
+i124.htm#i117|CLAUSEN|Peder /CLAUSEN/|1752|St. Ryttinge|2.Si fasten1753|St. Ryttinge|
+i123.htm#i27|CLAUSEN|Peder /CLAUSEN/|1807||1876||
+i126.htm#i8|DAMBÆK|Bente /DAMBÆK/ Cand. Jur.|14-6-1937|Amtssygehuset Næstved|||
+i127.htm#i171|DAMBÆK|Christian Emil Hansen /DAMBÆK/|20-12-1895|Åside|1901||
+i128.htm#i906|DAMBÆK|Gertrude /DAMBÆK/ Tandlægestuderende|11-4-1902|Præstø by|||
+i129.htm#i167|DAMBÆK|Gustav Hansen /DAMBÆK/|10-9-1883|Åside|||
+i130.htm#i168|DAMBÆK|Hans Peter Hansen /DAMBÆK/ Ekspedient|26-1-1874|Åside|||
+i131.htm#i170|DAMBÆK|Karen Kirstine /DAMBÆK/|10-1-1878|Åside|||
+i132.htm#i9|DAMBÆK|Knud Peer /DAMBÆK/ Cand. Jur.|21-8-1902|Frederiksberg|13-1-1984|Hillerød|
+i133.htm#i169|DAMBÆK|Lars Hansen /DAMBÆK/ Urmagersvend|14-10-1875|Åside|||
+i134.htm#i10|DAMBÆK|Peder Sørensen /DAMBÆK/ Tegnelærer|18-4-1870|Åside|22-7-1948|Sct Elisabets Hospital Næstved|
+i135.htm#i149|DAMBÆK|Søren /DAMBÆK/|18-4-1870|Åside|||
+i136.htm#i148|DAMBÆK|Søren /DAMBÆK/ Sagfører|||||
+i137.htm#i96|DAMBÆK|Ulla /DAMBÆK/|26-9-1944|Næstved|2-12-1974|København|
+i138.htm#i399|DE LICHTENBERG|Gedske /DE LICHTENBERG/|14-7-1733||12-12-1766||
+i140.htm#i394|DE LINDE|Christen /DE LINDE/|||19-4-1757|Engum Kirke|
+i139.htm#i398|DE LINDE|Christen /DE LINDE/|6-7-1725|Herregaarden Bækmark|15-5-1790||
+i141.htm#i400|DE LINDE|Christian /DE LINDE/|13-12-1753||7-7-1766||
+i142.htm#i219|ECHHARDT|Anna Sophie Barbara /ECHHARDT/|1730||12-8-1822|(98 År Gammel)|
+i143.htm#i404|EGHOLM|Heinrich Torval /EGHOLM/|||1948||
+i144.htm#i923|ELVANG|Carl /ELVANG/|||||
+i145.htm#i873|ENGBERG|A. /ENGBERG/|||||
+i146.htm#i417|ERIKSDATTER|Katrina /ERIKSDATTER/|1772|Nustrup|||
+i147.htm#i144|ERIKSEN|Bjørn /ERIKSEN/|3-5-1921||||
+i148.htm#i256|ERIKSEN|Lisa Kirstine /ERIKSEN/|||||
+i149.htm#i143|ERIKSEN|Tom Bjørn /ERIKSEN/|17-11-1947||||
+i150.htm#i525|FINDSEN|Iver /FINDSEN/|1535||Ca. 1600|Taulov|
+i151.htm#i390|FISCHER|Daniel /FISCHER/|||||
+i152.htm#i841|FOG HANSEN|Clara E. /FOG HANSEN/|1879||1973||
+i153.htm#i254|FORSSTRØM|Bertil /FORSSTRØM/|7-1924||8-2000||
+i154.htm#i721|FRANK|Jørgen Hansen /FRANK/|||||
+i155.htm#i191|FREDERIKSDATTER|Marie Kirstine /FREDERIKSDATTER/|15-5-1791|Lintrup|17-6-1855|Terpling|
+i156.htm#i761|FRIDERICHSDATTER|Ellen /FRIDERICHSDATTER/|||||
+i157.htm#i392|FRIEDENREICH|Janus /FRIEDENREICH/|||||
+i158.htm#i212|FRYDENDAL|/FRYDENDAL/|||||
+i159.htm#i555|GABRIELSDATTER|Inger /GABRIELSDATTER/|Ca. 1797|Appenæs by|||
+i161.htm#i568|GABRIELSEN|Lars /GABRIELSEN/|Ca. 1799|Appenæs by|||
+i160.htm#i573|GABRIELSEN|Lars /GABRIELSEN/ Tjenestekarl|||||
+i162.htm#i883|GAM|P.K. /GAM/|||||
+i163.htm#i857|GJEDDE|Maren /GJEDDE/|1838||1884||
+i164.htm#i152|GLAUER|Fredericke Juliane Caroline /GLAUER/|1804||1881||
+i165.htm#i707|GRANDJEAN|Ana Margrethe /GRANDJEAN/|1761|Skamstrup Holbæk Amt|||
+i166.htm#i695|GRANDJEAN|Anne Cathrine /GRANDJEAN/|2-12-1804|Søbygård Sæby sogn|20-1-1829||
+i167.htm#i712|GRANDJEAN|Augustin /GRANDJEAN/|1640||1714|Tostrup|
+i168.htm#i709|GRANDJEAN|Augustinus /GRANDJEAN/|1763||||
+i169.htm#i719|GRANDJEAN|Augustinus /GRANDJEAN/|1721||||
+i170.htm#i697|GRANDJEAN|Carl Emil Elo /GRANDJEAN/|31-1-1806|Søbygård Sæby sogn|5-11-1860|Christianshavn|
+i171.htm#i711|GRANDJEAN|Christian /GRANDJEAN/|1767||21-6-1767|Sdr. Jernløse|
+i172.htm#i717|GRANDJEAN|Christian /GRANDJEAN/|1717||18-7-1772|Holbæk|
+i173.htm#i705|GRANDJEAN|Dorthe Cathrine /GRANDJEAN/|1758||||
+i174.htm#i671|GRANDJEAN|Frederik Christian /GRANDJEAN/ Forpagter|7-7-1756|Skamstrup Holbæk Amt|7-7-1830|Kalundborg|
+i175.htm#i716|GRANDJEAN|Frederik Ditlev /GRANDJEAN/|1715|Magleby|||
+i176.htm#i663|GRANDJEAN|Frederikke Christiane /GRANDJEAN/|9-5-1799|Torbenfeldt Frydendal Holbæk amt|19-10-1864|Bjørnsholm Ålborg amt|
+i177.htm#i703|GRANDJEAN|Giodert Ludvig /GRANDJEAN/|1757|Vordingborg|6-4-1835|København|
+i178.htm#i675|GRANDJEAN|Helene Birgitte /GRANDJEAN/|11-11-1794|Torbenfeldt Holbæk amt|8-11-1862|Kalundborg|
+i179.htm#i673|GRANDJEAN|Ingeborg Margrethe /GRANDJEAN/|27-11-1791|Torbenfeldt Holbæk amt|4-6-1799|Torbenfeldt Holbæk amt|
+i180.htm#i714|GRANDJEAN|Joachim Augustinus /GRANDJEAN/|1714|Magleby|25-3-1785|Skælskør|
+i181.htm#i720|GRANDJEAN|Johanne Regine /GRANDJEAN/|1724|Magleby|||
+i182.htm#i677|GRANDJEAN|Johannes Ferdinand /GRANDJEAN/|14-12-1797|Torbenfeldt Holbæk amt|23-4-1874|København|
+i183.htm#i691|GRANDJEAN|Juliane Marie /GRANDJEAN/|3-3-1801|Søbygård Sæby sogn|3-3-1875|Vallestrup, Sønder Asmindrup sogn|
+i184.htm#i674|GRANDJEAN|Laurentius Christian /GRANDJEAN/|10-5-1793|Torbenfeldt Holbæk amt|8-10-1853||
+i185.htm#i701|GRANDJEAN|Ludvig /GRANDJEAN/|1688|Hyllested|18-8-1767|Hjembæk Holbæk|
+i186.htm#i725|GRANDJEAN|Malie /GRANDJEAN/|1699||||
+i187.htm#i724|GRANDJEAN|Margrethe Dorthe /GRANDJEAN/|1694||||
+i188.htm#i723|GRANDJEAN|Marie Elisabeth /GRANDJEAN/|1691||||
+i189.htm#i696|GRANDJEAN|Nicolaj Peder Fritz /GRANDJEAN/|31-1-1806|Søbygård Sæby sogn|4-11-1806|Søbygård Sæby sogn|
+i190.htm#i683|GRANDJEAN|Otto /GRANDJEAN/|1727|Magleby|2-4-1815|Tølløse Frydendal|
+i191.htm#i722|GRANDJEAN|Phillip Adam /GRANDJEAN/|1687||1693||
+i192.htm#i710|GRANDJEAN|Thomas Hans /GRANDJEAN/|||||
+i193.htm#i676|GRANDJEAN|Vilhelmine Magdalene Augusta /GRANDJEAN/|28-5-1796|Torbenfeldt Holbæk amt|24-2-1849|Slagelse|
+i194.htm#i693|GRANDJEAN|Virgilius Emanuel /GRANDJEAN/|15-1-1803|Søbygård Sæby sogn|27-7-1830|Finderup Løve herred|
+i195.htm#i250|GRIB|A.F. /GRIB/|||||
+i196.htm#i252|GRIB|Ytte D. M. /GRIB/|||||
+i197.htm#i251|GRIB|Øllegaard /GRIB/|||||
+i198.htm#i360|GRÜNVALD|Belinda /GRÜNVALD/|21-9-1982||||
+i199.htm#i359|GRÜNVALD|Jane /GRÜNVALD/|17-6-1964||||
+i200.htm#i468|GUNDESBØL|Niels /GUNDESBØL/|||||
+i201.htm#i718|HALLING|Anne /HALLING/|1723||1-6-1776||
+i202.htm#i699|HALLING|Giodert /HALLING/|||||
+i203.htm#i684|HALLING|Ingeborg /HALLING/|1725||24-7-1787|Kirke Valsø|
+i204.htm#i738|HAMMER|Peder Pedersen /HAMMER/|||||
+i205.htm#i843|HAMMERSHAIMB|Armgard Maria /HAMMERSHAIMB/|1784||1859||
+i206.htm#i558|HANSDATTER|Ane /HANSDATTER/ Enke|Ca. 1745||1-1823|Appenæs|
+i207.htm#i578|HANSDATTER|Ane Marie /HANSDATTER/|20-4-1819|Rode|||
+i208.htm#i412|HANSDATTER|Anna Maria /HANSDATTER/|||||
+i209.htm#i672|HANSDATTER|Anne Chatrine /HANSDATTER/|8-4-1769|Frydendal mølle Holbæk amt|23-3-1829|Kalundborg|
+i211.htm#i487|HANSDATTER|Dorthe /HANSDATTER/|1663|Adserbølgård Lindknud sogn Ribe amt|1712|Kiolding|
+i210.htm#i524|HANSDATTER|Dorthe /HANSDATTER/|1560|Kolding|1596|Taulov|
+i212.htm#i505|HANSDATTER|Ellen /HANSDATTER/|1614||1704|Kolding|
+i213.htm#i582|HANSDATTER|Ellen /HANSDATTER/|Ca. 1794|Vinderup|||
+i214.htm#i766|HANSDATTER|Ellen Kirstine /HANSDATTER/|1737|Krøjerup|1749|Krøjerup|
+i215.htm#i589|HANSDATTER|Johanne /HANSDATTER/|Ca. 1822|Dalby|||
+i216.htm#i595|HANSDATTER|Karen /HANSDATTER/|Ca. 1828|Rhode by|||
+i217.htm#i762|HANSDATTER|Kirste /HANSDATTER/|1731||||
+i218.htm#i592|HANSDATTER|Mette /HANSDATTER/|||||
+i219.htm#i13|HANSDATTER|Mette Kirstine /HANSDATTER/|1820||||
+i220.htm#i590|HANSDATTER|Mette Sophie /HANSDATTER/|Ca. 1831|Dalby|||
+i221.htm#i764|HANSDATTER|Sidse /HANSDATTER/|||||
+i222.htm#i733|HANSDATTER|Sidse Marie /HANSDATTER/|1-9-1764||2-3-1801|Rangle mølle Holmstrup|
+i223.htm#i732|HANSDATTER|Sidsel Marie /HANSDATTER/|31-5-1763|Frydendal|9-10-1763|Skamstrup Holbæk Amt|
+i224.htm#i742|HANSDATTER|Sophie Amalie /HANSDATTER/|1778|Skamstrup Holbæk Amt|17-6-1835|Kundby|
+i226.htm#i605|HANSEN|Anders /HANSEN/|18-6-1828|Dråby|||
+i225.htm#i604|HANSEN|Anders /HANSEN/ Gårdmand i skoven|||||
+i227.htm#i447|HANSEN|Anna Christiane /HANSEN/|Ca. 1869|Ferslev sogn Hornsherred|||
+i228.htm#i255|HANSEN|Annemette /HANSEN/|9-7-1955||||
+i229.htm#i98|HANSEN|Berthel /HANSEN/|14.s.e Trin1709|Lille Ryttinge|||
+i230.htm#i767|HANSEN|Christen /HANSEN/|1740|Krøjerup|||
+i231.htm#i239|HANSEN|Christence /HANSEN/|1768||15-12-1810||
+i234.htm#i30|HANSEN|Claus /HANSEN/|1712||11-4-1770|Lille Ryttinge|
+i233.htm#i32|HANSEN|Claus /HANSEN/|1640||1709|Lille Ryttinge|
+i232.htm#i99|HANSEN|Claus /HANSEN/|3.s.e Hell 1711|Lille Ryttinge|4-3-1711|Lille Ryttinge|
+i235.htm#i735|HANSEN|Ellen Catharina /HANSEN/|20-4-1768||6-1-1838||
+i236.htm#i440|HANSEN|Ellen Marie /HANSEN/|16-4-1907|Vejleby Ferslev sogn Hornsherred|||
+i237.htm#i110|HANSEN|Elne /HANSEN/|1.s.eheltre1734|Lille Ryttinge|||
+i238.htm#i737|HANSEN|Else /HANSEN/|1771||8-1799|Billerup mølle|
+i239.htm#i101|HANSEN|Elsie /HANSEN/|1715|Lille Ryttinge|||
+i240.htm#i765|HANSEN|Frederich /HANSEN/ Møller|1736|Krøjerup|1791|Krummerup mølle|
+i241.htm#i741|HANSEN|Friderica Christiana /HANSEN/|1776||16-5-1777|Skamstrup Holbæk Amt|
+i242.htm#i433|HANSEN|Hans /HANSEN/ Indsidder|9-1-1836|Nyhuse|||
+i244.htm#i439|HANSEN|Hans Christian /HANSEN/|5-9-1899|Ferslev sogn Hornsherred|||
+i243.htm#i445|HANSEN|Hans Christian /HANSEN/|Ca. 1864|Ferslev sogn Hornsherred|||
+i246.htm#i104|HANSEN|Jens /HANSEN/|1720|Lille Ryttinge|||
+i245.htm#i97|HANSEN|Jens /HANSEN/|2.s.e tri 1708|Lille Ryttinge|10-10-1708|Lille Ryttinge|
+i247.htm#i102|HANSEN|Johanne /HANSEN/|1716|Lille Ryttinge|||
+i248.htm#i606|HANSEN|Johannes Pedersen /HANSEN/|11-4-1833|Dråby|||
+i249.htm#i108|HANSEN|Karen /HANSEN/|1731|Lille Ryttinge|6-2-1732|Lille Ryttinge|
+i250.htm#i429|HANSEN|Karl Nicolai /HANSEN/ Husmand|22-6-1875|Ferslev sogn Hornsherred|||
+i251.htm#i437|HANSEN|Kristen Thomsen /HANSEN/ Gårdejer|27-12-1897|Vejleby Ferslev sogn|||
+i252.htm#i685|HANSEN|Lars /HANSEN/ Møller|1732|Krøjerup|19-3-1800|Frydendal mølle Holbæk amt|
+i253.htm#i446|HANSEN|Lars Peder /HANSEN/|Ca. 1866|Ferslev sogn Hornsherred|||
+i254.htm#i109|HANSEN|Maren /HANSEN/|1733||1736||
+i255.htm#i432|HANSEN|Maren Amalie /HANSEN/|29-11-1882|Dalby|||
+i256.htm#i107|HANSEN|Niels /HANSEN/|1727|Lille Ryttinge|||
+i257.htm#i763|HANSEN|Niels /HANSEN/|1734|Krøjerup|28-1-1793|Merløse|
+i258.htm#i106|HANSEN|Oluf /HANSEN/|23.s.e trin1725|Lille Ryttinge|1.s.e trin1730|Lille Ryttinge|
+i262.htm#i100|HANSEN|Peder /HANSEN/|1714||1714||
+i259.htm#i103|HANSEN|Peder /HANSEN/|1719|Lille Ryttinge|3.s.eheltrk1720|Lille Ryttinge|
+i261.htm#i105|HANSEN|Peder /HANSEN/|23.s.e trin1722|Lille Ryttinge|||
+i260.htm#i164|HANSEN|Peder /HANSEN/ Gårdejer|15-3-1844||3-1-1914|Åside|
+i264.htm#i739|HANSEN|Rasmus /HANSEN/|1774||11-7-1829|Frydendal|
+i263.htm#i760|HANSEN|Rasmus /HANSEN/|1728|Krøjerup|1766|Holbæk|
+i265.htm#i4|HANSEN|Vilhelm Marius /HANSEN/ Revisor|18-1-1902|Ferslev sogn Hornsherred|13-5-1993|Næstved|
+i266.htm#i908|HARRITZ|Kaja Sørina /HARRITZ/ Telefonistinde|24-3-1895|Roskilde|||
+i267.htm#i276|HEGSTRUP|Albert /HEGSTRUP/|16-8-1995||||
+i268.htm#i267|HEGSTRUP|Astrid /HEGSTRUP/|18-10-1976||||
+i269.htm#i260|HEGSTRUP|Christian /HEGSTRUP/|19-10-1971||||
+i270.htm#i273|HEGSTRUP|Claus /HEGSTRUP/|7-11-1956||||
+i271.htm#i280|HEGSTRUP|Elias /HEGSTRUP/|17-3-2000||||
+i272.htm#i268|HEGSTRUP|Esben Lykke /HEGSTRUP/|7-7-1978||||
+i273.htm#i270|HEGSTRUP|Henrik /HEGSTRUP/|22-12-1954||||
+i274.htm#i261|HEGSTRUP|Jacob /HEGSTRUP/|27-10-1978||||
+i275.htm#i274|HEGSTRUP|Jeannie /HEGSTRUP/|19-12-1960||||
+i276.htm#i265|HEGSTRUP|Lars /HEGSTRUP/|25-4-1953||||
+i277.htm#i277|HEGSTRUP|Niels /HEGSTRUP/|29-9-1964||||
+i278.htm#i257|HEGSTRUP|Ole /HEGSTRUP/|7-8-1923||||
+i279.htm#i258|HEGSTRUP|Peter /HEGSTRUP/|12-1-1945||||
+i280.htm#i275|HEGSTRUP|Pil /HEGSTRUP/|16-8-1995||||
+i281.htm#i281|HEGSTRUP|Sofia /HEGSTRUP/|17-4-2002||||
+i282.htm#i279|HEGSTRUP|William /HEGSTRUP/|18-4-1998||||
+i283.htm#i35|HEMMINGSDATTER|Maren /HEMMINGSDATTER/|1736||1812||
+i284.htm#i401|HENRIKSEN|Jens /HENRIKSEN/|||||
+i285.htm#i661|HESSELBERG|Clara Angelica /HESSELBERG/|1830||1864||
+i286.htm#i16|HILDEBRANDT|Axel /HILDEBRANDT/|1746||1808||
+i287.htm#i121|HILDEBRANDT|Niels /HILDEBRANDT/|||1804|Snesere|
+i288.htm#i17|HILDEBRANDT|S. /HILDEBRANDT/|||1746||
+i289.htm#i18|HILDEBRANDT|Seuren /HILDEBRANDT/|||||
+i290.htm#i305|HJELM|Susanne /HJELM/|28-10-19xx||||
+i291.htm#i237|HJERMIIN|Gertrud Magdalene /HJERMIIN/|1749||||
+i292.htm#i213|HJERMIIN|Henrik /HJERMIIN/ Dr.med.|1705|Hjerm sogn|1781|Venø|
+i293.htm#i236|HJERMIIN|Jens /HJERMIIN/|1747||1810||
+i294.htm#i220|HJERMIIN|Jens Henriksen /HJERMIIN/ Sognepræst|6-1678|Hjerm Præstegård Hjerm sogn|17-2-1742|Ausumgård, Vejrum|
+i295.htm#i233|HJERMIIN|Kirstine Marie /HJERMIIN/|1742||5-1-1761||
+i296.htm#i238|HJERMIIN|Niels /HJERMIIN/|1750||23-10-1807||
+i297.htm#i240|HJERMIIN|Nielsine /HJERMIIN/|8-12-1795||1867||
+i298.htm#i224|HJERMIIN|Thomas Just /HJERMIIN/|1711||1778||
+i299.htm#i226|HJERMIIN|Øllegaard Marie /HJERMIIN/|1733||1784||
+i300.htm#i426|HOLM|Anna /HOLM/|1842|Nustrup|||
+i301.htm#i94|HOLM|Astrid Elisabeth /HOLM/ Sygeplejerseke|12-9-1902|Andst|12-3-1986|København|
+i302.htm#i95|HOLM|Ella /HOLM/|23-10-1908|Adnst|29-8-2003|København|
+i303.htm#i427|HOLM|Ellen Kirstine /HOLM/|1844|Nustrup|||
+i304.htm#i420|HOLM|Erik Thæstesen /HOLM/ Husmand|8-1-1804|Nustrup|30-6-1890|Nustrup|
+i305.htm#i423|HOLM|Hanne Kirstine /HOLM/|1835|Nustrup|||
+i306.htm#i424|HOLM|Jes Pedersen /HOLM/|1837|Nustrup|||
+i307.htm#i418|HOLM|Jes Thæstesen /HOLM/|22-6-1806|Nustrup|||
+i308.htm#i413|HOLM|Johannes Thæstensen /HOLM/ Indsidder/Muremester|18-11-1798|Nustrup|||
+i309.htm#i425|HOLM|Kirsten Maria /HOLM/|1839|Nustrup|||
+i310.htm#i419|HOLM|Lauge /HOLM/ Dagleier|11-9-1796|Nustrup|||
+i311.htm#i415|HOLM|Mads Johannesen /HOLM/|15-3-1825|Nustrup|||
+i312.htm#i52|HOLM|Peder Thæstensen /HOLM/|3-1-1866||||
+i313.htm#i51|HOLM|Sigrid Sørensen /HOLM/|16-9-1906|Adnst|18-11-2007|Greve|
+i314.htm#i409|HOLM|Thæsten Johannessen /HOLM/ Høker|13-2-1827|Nustrup|||
+i315.htm#i865|HUMPHERYES|Charlotte /HUMPHERYES/|1883||1960||
+i316.htm#i872|HUNDRUP|C.V. /HUNDRUP/|||||
+i317.htm#i155|HVELPLUND|Freja  Emilie Voss /HVELPLUND/|8-8-1996||3-3-1998||
+i318.htm#i156|HVELPLUND|Lærke Voss /HVELPLUND/|22-1-2000||||
+i319.htm#i137|HVELPLUND|Mads /HVELPLUND/|30-5-1994||||
+i320.htm#i136|HVELPLUND|Rikke Voss /HVELPLUND/|22-4-1967||||
+i321.htm#i25|HØY|Anne Rasmusdatter /HØY/|1739||1821||
+i322.htm#i847|HØYBERG|Jacobine Christiane /HØYBERG/|1798||1851||
+i323.htm#i715|HØYER|Anne Helvig /HØYER/|||||
+i324.htm#i474|HAAHR|Jørgen Udesen /HAAHR/|Ca. 1747|Ølgod|1800|Ølgod|
+i325.htm#i471|HAAHR|Nikoline Kirstine /HAAHR/|Ca. 1781|Lindbjrggård Ølgod sogn|2-12-1853||
+i326.htm#i480|HAAHR|Søren Udsen /HAAHR/|1661||1722|Kolding|
+i327.htm#i478|HAAHR|Ude Sørensen /HAAHR/|8-9-1696|Kolding Brusk Herred|18-1-1789|Ølgod Ølgod sogn Ribe amt|
+i328.htm#i518|HAARD|Jørgen Andersen /HAARD/|1560|Eltang / Vester Nebel||Vester Nebel|
+i329.htm#i482|HAARD|Lene Sørensdatter /HAARD/|1634|Koldimg|1696|Koldimg|
+i330.htm#i485|HAARD|Søren Jørgensen /HAARD/|1596|Vester Nebel ?|1660|Kolding|
+i331.htm#i340|IBSEN|Carsten /IBSEN/|||||
+i332.htm#i341|IBSEN|Michael Ravn /IBSEN/|24-9-1990||||
+i333.htm#i895|ILSØE|Gudrun /ILSØE/|||||
+i334.htm#i523|IVERSEN|Bertel /IVERSEN/ Sognepræst|1555||1626|Taulov|
+i335.htm#i887|JACOBSEN|K. /JACOBSEN/ Provst i Borris|||||
+i336.htm#i591|JACOBSEN|Niels /JACOBSEN/ Husmand|||||
+i337.htm#i140|JAKOBSEN|Steffen /JAKOBSEN/|2-3-1918||||
+i338.htm#i509|JEGIND|Anna Christensdatter /JEGIND/|1641|Lemvig|1685|Lemvig|
+i339.htm#i510|JEGIND|Christen Jensen /JEGIND/|1591|Syndertoft skov Jeginø|1672|Lemvig|
+i340.htm#i462|JENSDATTER|Ane Cathrine /JENSDATTER/|Ca. 1761|Lintrup, Holsted sogn|||
+i341.htm#i550|JENSDATTER|Ane Lisbeth /JENSDATTER/|5-10-1818|Roholte|Før 1880||
+i342.htm#i775|JENSDATTER|Anna /JENSDATTER/|||||
+i343.htm#i145|JENSDATTER|Kirsten /JENSDATTER/|15-12-1828|Ølgod|23-3-1908||
+i346.htm#i467|JENSDATTER|Kirsten /JENSDATTER/|2-12-1753||||
+i344.htm#i522|JENSDATTER|Kirsten /JENSDATTER/|Ca. 1480||||
+i345.htm#i547|JENSDATTER|Kirsten /JENSDATTER/|2-12-1753|Stoustrup, Aadum Sogn, Ringkøbing Amt|||
+i347.htm#i42|JENSDATTER|Margrete /JENSDATTER/|1810||1890||
+i348.htm#i560|JENSEN|Anders /JENSEN/|25-3-1824|Appenæs|||
+i349.htm#i759|JENSEN|Anders /JENSEN/|||||
+i350.htm#i278|JENSEN|Anja /JENSEN/|29-9-1968||||
+i351.htm#i912|JENSEN|Anna /JENSEN/|11-3-1862|Trinitatis Sokkelund KBH|22-2-1919|KBH|
+i352.htm#i134|JENSEN|Chris Michael /JENSEN/|14-7-1961|Stensved / Vordingborg|||
+i353.htm#i301|JENSEN|Henning Skovgaard /JENSEN/|21-1-1955||||
+i354.htm#i227|JENSEN|Henrik /JENSEN/ Sognepræst|1637|Viborg|1689||
+i355.htm#i133|JENSEN|Herman /JENSEN/|16-8-1922||12-10-1994|Stensby Kirke|
+i356.htm#i68|JENSEN|Inge /JENSEN/|20-12-1923|Odense|||
+i357.htm#i897|JENSEN|Ingrid M /JENSEN/|||||
+i358.htm#i875|JENSEN|J.P.J. /JENSEN/|||||
+i359.htm#i60|JENSEN|Jens /JENSEN/|7-8-1876||30-10-1954||
+i360.htm#i643|JENSEN|Johanne /JENSEN/|Ca. 1849||||
+i361.htm#i67|JENSEN|Kirsten /JENSEN/|25-5-1921|Odense|||
+i362.htm#i633|JENSEN|Kirstine /JENSEN/ Aftægtsnydende hos datteren i 1921|7-4-1857|Vejrum Viborg Amt|||
+i363.htm#i563|JENSEN|Kristen /JENSEN/|7-5-1833|Appenæs|||
+i365.htm#i20|JENSEN|Lars /JENSEN/|1736||1793||
+i364.htm#i48|JENSEN|Lars /JENSEN/|||||
+i366.htm#i438|JENSEN|Mariane /JENSEN/ Husbestyrerinde|10-6-1892|Svansbjerg Herfølge|||
+i367.htm#i611|JENSEN|Martine /JENSEN/|27-1-1892|Sjørslev Viborg amt|||
+i368.htm#i22|JENSEN|Niels /JENSEN/|167X||1740||
+i369.htm#i549|JENSEN|Ole /JENSEN/ Husmand/Muremester|17-5-1817|Vejlø|10-12-1881|Appenæs Vejlø|
+i370.htm#i561|JENSEN|Peder /JENSEN/|2-3-1827|Appenæs|||
+i372.htm#i66|JENSEN|Peter /JENSEN/|31-12-1888||23-2-1964||
+i371.htm#i629|JENSEN|Peter /JENSEN/ Gårdejer &amp; Sognefoged|||||
+i373.htm#i75|JENSEN|Petra Johanne /JENSEN/|6-2-1910||15-8-1995||
+i374.htm#i564|JENSEN|Rasmus /JENSEN/|Ca. 1835|Appenæs|||
+i375.htm#i303|JENSEN|Stephan Osvang Skovgaard /JENSEN/|3-4-1989||||
+i376.htm#i135|JENSEN|Tinne /JENSEN/|24-2-1964|Stensved/ Vordingborg|||
+i377.htm#i302|JENSEN|Vicki Osvang Skovgaard /JENSEN/|21-2-1983||||
+i378.htm#i512|JEPSEN|Oluf /JEPSEN/|Ca. 1585|Lemvig|||
+i379.htm#i193|JERMIIN|Ane Dothea /JERMIIN/|1813||1862-1887||
+i380.htm#i179|JERMIIN|Ane Sofie Barbara /JERMIIN/||||Som Ung|
+i381.htm#i203|JERMIIN|Ane Sophie Barbera /JERMIIN/|1809||1890||
+i382.htm#i197|JERMIIN|Anna Sophie Barbara /JERMIIN/|1809||||
+i383.htm#i373|JERMIIN|Chatrime /JERMIIN/|21-10-1990||||
+i384.htm#i201|JERMIIN|Else Johanne Seidelin /JERMIIN/|1812||1885||
+i385.htm#i177|JERMIIN|Else Katrine /JERMIIN/|||||
+i386.htm#i218|JERMIIN|Engel Johan Daniel /JERMIIN/|1836||1921|Vejrup|
+i387.htm#i215|JERMIIN|Engel Johan Daniel /JERMIIN/ Sognepræst|20-11-1764|Venø|30-5-1830|Hassing|
+i388.htm#i371|JERMIIN|Flemming Høj /JERMIIN/|12-1-1951||||
+i389.htm#i185|JERMIIN|Frederik Schelde /JERMIIN/|24-4-1917||||
+i390.htm#i244|JERMIIN|Hans Helmut /JERMIIN/|||||
+i391.htm#i247|JERMIIN|Hans Helmuth Carl Sommer /JERMIIN/|||||
+i392.htm#i204|JERMIIN|Hedvig Sabine Beodera /JERMIIN/|1814||1856||
+i393.htm#i188|JERMIIN|Henriette Cyrine /JERMIIN/||||Død Som Barn|
+i394.htm#i202|JERMIIN|Henrik /JERMIIN/|1810||1887||
+i396.htm#i187|JERMIIN|Henrik Cyrus /JERMIIN/|27-4-1864|||Død Som Barn|
+i395.htm#i192|JERMIIN|Henrik Cyrus /JERMIIN/|1813||1862||
+i397.htm#i195|JERMIIN|Immanuel /JERMIIN/|||||
+i398.htm#i194|JERMIIN|Ingeborg /JERMIIN/|||||
+i399.htm#i190|JERMIIN|Jens Christian /JERMIIN/|26-5-1751|Rostok|3-8-1833|Terpling|
+i400.htm#i245|JERMIIN|Jens Just Sommer /JERMIIN/|||5-1909||
+i401.htm#i56|JERMIIN|Johan Frederik /JERMIIN/|11-11-1822|Tranekærgård, Terpling, Åstrup Sogn|7-12-1888|Åstrup sogn|
+i402.htm#i183|JERMIIN|Kirste Schelde /JERMIIN/|29-11-1911||||
+i403.htm#i369|JERMIIN|Lise /JERMIIN/|18-4-1923||6-9-1996||
+i404.htm#i196|JERMIIN|Marie /JERMIIN/|||||
+i405.htm#i175|JERMIIN|Marie Kirstine /JERMIIN/|||||
+i406.htm#i186|JERMIIN|Marie Schelde /JERMIIN/|11-1918||11-3-2000||
+i407.htm#i372|JERMIIN|Mathilde /JERMIIN/|7-2-1989||||
+i408.htm#i211|JERMIIN|Mette Cathrine Svane /JERMIIN/|1821||1900||
+i409.htm#i198|JERMIIN|Octavius /JERMIIN/ Degn|1809||||
+i410.htm#i207|JERMIIN|Septimius /JERMIIN/|1817||1899||
+i411.htm#i370|JERMIIN|Sidsel /JERMIIN/|16-8-1959||||
+i412.htm#i214|JERMIIN|Thomas /JERMIIN/|||||
+i413.htm#i243|JERMIIN|Tomas Just /JERMIIN/|||1857||
+i414.htm#i189|JERMIIN|Wilhelm /JERMIIN/||||Død Som Barn|
+i415.htm#i206|JERMIIN|Øllegaard /JERMIIN/|1816||1853||
+i416.htm#i55|JERMIIN|Øllegaard Helene /JERMIIN/|14-2-1860|Terpling|4-1-1952|Kolding|
+i417.htm#i208|JERMIIN|Øllegaard Marie Helene /JERMIIN/|1818||||
+i418.htm#i93|JERMIN|Hans Michael /JERMIN/|1931||8-2-1996||
+i419.htm#i91|JERMIN|Haral /JERMIN/|12-8-1902|St. Anst|1973|Bispebjerg Kirkegård|
+i420.htm#i199|JERMIN|Immanuel /JERMIN/ Pastor|18-12-1769|Venø|16-7-1851||
+i421.htm#i180|JERMIN|Jens Christian /JERMIN/|27-4-1864||||
+i422.htm#i217|JERMIN|Jens Christian /JERMIN/|1839||1911||
+i423.htm#i527|JESPERSEN|Find /JESPERSEN/|||||
+i424.htm#i173|JESSEN|Jens Christian /JESSEN/|Ca. 1788|Stoustrup, Aadum sogn|28-12-1869|Tirslund mark, Brørup Sogn|
+i425.htm#i740|JESSEN|Petrine Cathrine /JESSEN/|||||
+i426.htm#i931|JOHANSEN|Johanne Andersine /JOHANSEN/|||||
+i427.htm#i442|JØRGENSEN|Ane /JØRGENSEN/|||||
+i428.htm#i128|JØRGENSEN|Jens /JØRGENSEN/|||||
+i429.htm#i345|KJELDSEN|Mona /KJELDSEN/|24-10-1962||||
+i430.htm#i406|KLAUSEN|Viggo /KLAUSEN/|12-9-1902||10-5-1951||
+i431.htm#i253|KLINGENBERG|/KLINGENBERG/|||||
+i432.htm#i453|KNUDSDATTER|Anne Marie /KNUDSDATTER/|Ca. 1817|Marvede|||
+i433.htm#i498|KNUDSDATTER|Maren /KNUDSDATTER/|Ca. 1615||||
+i434.htm#i545|KNUDSEN|Ancher /KNUDSEN/|Ca. 1370||||
+i435.htm#i483|KNUDSEN|Bertel /KNUDSEN/|1614|Kolding|1649|Kolding|
+i436.htm#i357|KNUDSEN|Chris Bendix /KNUDSEN/|10-9-1987||||
+i437.htm#i356|KNUDSEN|Diana Ravn /KNUDSEN/|29-10-1984||||
+i438.htm#i330|KNUDSEN|Inger /KNUDSEN/|16-11-1959||||
+i439.htm#i324|KNUDSEN|Ingrid /KNUDSEN/|13-2-1957||||
+i440.htm#i355|KNUDSEN|Ivan Bendix /KNUDSEN/|6-5-1960||||
+i441.htm#i788|KNUDSEN|Karen Kirstine /KNUDSEN/|||||
+i442.htm#i320|KNUDSEN|Margit /KNUDSEN/|3-2-1956||||
+i443.htm#i319|KNUDSEN|Viktor /KNUDSEN/|15-10-1925||7-8-1998||
+i444.htm#i205|KOLLINGHUUSEN WEGENER|Peter Engelbert /KOLLINGHUUSEN WEGENER/|1804||1856||
+i445.htm#i891|KONGSTED|Julie S. /KONGSTED/|||||
+i446.htm#i70|KORSGAARD|Christine Marie /KORSGAARD/|28-12-1893||31-12-1979||
+i447.htm#i365|KRAGH|Camilla /KRAGH/|28-11-1996||||
+i448.htm#i364|KRAGH|Henrik /KRAGH/|28-8-1967||||
+i449.htm#i366|KRAGH|Nikolaj /KRAGH/|3-10-1998||||
+i450.htm#i825|KRUUSE|Abraham /KRUUSE/ Grevskabslæge|1790||1869||
+i451.htm#i833|LANDER|Margot /LANDER/ Solodanser|1910||1961||
+i452.htm#i860|LANGE|Henriette Catrine /LANGE/|1833||1899||
+i453.htm#i166|LARSDATTER|Ellen /LARSDATTER/|||||
+i454.htm#i47|LARSDATTER|Methe /LARSDATTER/|||||
+i455.htm#i19|LARSDATTER|Mette /LARSDATTER/|1767||1812||
+i456.htm#i58|LARSEN|Anette Råbjerg /LARSEN/ Sygeplejerske|13-4-1967||||
+i457.htm#i581|LARSEN|Christopher /LARSEN/ Gårdemand &amp; Sognefoged|Ca. 1789|Dalby|||
+i458.htm#i566|LARSEN|Gabriel /LARSEN/ Daglejer og søelimit|1774|Formodentlig Herlufsholm|27-6-1832|Appenæs|
+i459.htm#i403|LARSEN|Janne /LARSEN/|||||
+i460.htm#i402|LARSEN|Jens /LARSEN/|||||
+i461.htm#i649|LARSEN|Lars Marin /LARSEN/ Skræddermester|1817||1893||
+i462.htm#i452|LARSEN|Poul /LARSEN/ Gårdmand|Ca. 1791|Vallensved|||
+i463.htm#i660|LARSEN|Stig Eduard /LARSEN/ Dr. Phil|2-9-1860|København|30-9-1946|Østervold København|
+i464.htm#i39|LAUERSEN|Peder /LAUERSEN/|||||
+i465.htm#i499|LAUGESEN|Kirsten Pedersdatter /LAUGESEN/|1680||22-3-1754||
+i466.htm#i500|LAUGESEN|Peder /LAUGESEN/|14-5-1649|Kolding|25-6-1700|Kolding|
+i467.htm#i416|LAUGESEN (LAURIDSEN)|Thæsten /LAUGESEN (LAURIDSEN)/|||||
+i469.htm#i748|LEJE|Andreas /LEJE/|Ca. 1715||4-7-1794|Jyderup|
+i468.htm#i754|LEJE|Andreas /LEJE/|||||
+i470.htm#i746|LEJE|Friderich Christian /LEJE/|23-2-1716|Bregninge Holbæk|Før 1755||
+i471.htm#i752|LEJE|Gottfred Johansen /LEJE/|17-4-1724|Bregninge|17-4-1724|Bregninge|
+i472.htm#i753|LEJE|Han Jørgen Johannsen /LEJE/|17-4-1724|Bregninge|17-4-1724|Bregninge|
+i473.htm#i744|LEJE|Johan Henrich /LEJE/|Ca. 1685||1760|Jordløse|
+i474.htm#i750|LEJE|Rosine Cathrina /LEJE/|1721|Bregninge|1796|Drax mølle|
+i475.htm#i731|LEJE|Sophie Amalie /LEJE/|15-4-1714|Bregninge|||
+i476.htm#i391|LETH|Niels /LETH/|||||
+i477.htm#i379|LINDE|Anne Margrethe /LINDE/|1677||1759||
+i478.htm#i386|LINDE|Casper /LINDE/|||23-10-1758||
+i479.htm#i229|LINDE|Cecilie Christensdatter /LINDE/|1661||1679|I Barselsseng|
+i480.htm#i376|LINDE|Christen /LINDE/|29-9-1664||25-2-1723||
+i481.htm#i385|LINDE|Christen /LINDE/|||1743||
+i482.htm#i231|LINDE|Christen Christensen /LINDE/|26-12-1626|Holstebro|9-8-1706||
+i483.htm#i382|LINDE|Christian /LINDE/|1684||1753||
+i484.htm#i377|LINDE|Else /LINDE/|1665||1689||
+i485.htm#i381|LINDE|Frantz /LINDE/|1681||1765||
+i486.htm#i388|LINDE|Jytte Dorthe /LINDE/|1705||1732||
+i487.htm#i378|LINDE|Maren /LINDE/|1672||1755||
+i488.htm#i380|LINDE|Niels /LINDE/|1678||1746||
+i489.htm#i176|LINNET|Thomas /LINNET/|||||
+i490.htm#i839|LOMHOLDT|Ingeborg /LOMHOLDT/|30-9-1902|København|||
+i491.htm#i840|LOMHOLDT|N.E. /LOMHOLDT/ Direktør i hærens tekniske korps|1864||1919||
+i492.htm#i291|LOMHOLDT OLSEN|Ann Sofie /LOMHOLDT OLSEN/|10-5-1979||||
+i493.htm#i298|LORENTSEN|Kristina Osvang /LORENTSEN/|17-12-1981||||
+i494.htm#i297|LORENTSEN|Preben /LORENTSEN/|5-6-1954||||
+i495.htm#i299|LORENTSEN|Simone Osvang /LORENTSEN/|31-8-1988||||
+i496.htm#i395|LOSS|Maren Jørgensdatter /LOSS/|1731||1778||
+i497.htm#i893|LUND|Ingeborg /LUND/|||||
+i498.htm#i850|LUNDBERG|Louise Christine /LUNDBERG/|1796||1869||
+i499.htm#i242|LUTTICHAU|Mette Sophie /LUTTICHAU/||Tjele|1820||
+i500.htm#i414|MADSDATTER|Anna Maria /MADSDATTER/||sdr. Niestrup|||
+i501.htm#i726|MADSDATTER|Maren /MADSDATTER/|||1808||
+i502.htm#i472|MADSEN|Peder /MADSEN/|Ca. 1741||30-12-1807||
+i503.htm#i503|MARCUSDATTER|Kirsten /MARCUSDATTER/|1611||17-4-1678|Kolding|
+i504.htm#i259|MARCUSLUND|Joan /MARCUSLUND/|20-5-1945||||
+i505.htm#i531|MAREBÆK|Christen /MAREBÆK/|1575||Ca. 1620|Fangenskab i Tyrkiet|
+i506.htm#i489|MAREBÆK|Maren Pedersdatter /MAREBÆK/|Ca. 1635|Vorbasse|14-1-1701|Lindknud Sogn|
+i507.htm#i490|MAREBÆK|Peder Christensen /MAREBÆK/|Ca. 1600||1663||
+i508.htm#i938|MEJDAL|Claus /MEJDAL/|4-11-69||31-3-2019||
+i509.htm#i905|MELDAL|August F. /MELDAL/|||||
+i510.htm#i804|MELDAL|Carsten Nicolai /MELDAL/ Præst|1767||1833||
+i511.htm#i856|MELDAL|Elisabeth Christiane Birgitte /MELDAL/|1790||1836||
+i512.htm#i805|MELDAL|Julius /MELDAL/ Søofficer|1827||1901||
+i513.htm#i44|MIKKELSEN|Peder /MIKKELSEN/|1720||1785||
+i514.htm#i704|MORCK|Anne Marie /MORCK/|||||
+i515.htm#i530|MORTENSDATTER|Karen /MORTENSDATTER/|||||
+i516.htm#i40|MORTENSDATTER|Sidse Marie /MORTENSDATTER/|1766||1845||
+i517.htm#i464|MOSGAARD|Maren Kirstine /MOSGAARD/|||||
+i519.htm#i493|MOURITZEN|Hans Hansen /MOURITZEN/|4-12-1638|Kolding|||
+i518.htm#i494|MOURITZEN|Hans Hansen /MOURITZEN/|1609|Kolding|2-7-1650|Kolding|
+i520.htm#i222|MUUS|Christian /MUUS/|||||
+i521.htm#i221|MUUS|Øllegaard Christensdatter /MUUS/|1678|Ausumgård, Vejrum|1707|Ribe|
+i522.htm#i861|MØLLER|Henriette /MØLLER/|1822||1885||
+i523.htm#i543|MØRCK|Hans /MØRCK/ Væbner|Ca. 1280||Ca. 1335||
+i524.htm#i542|MØRCK|Tuli /MØRCK/|Ca. 1360||||
+i525.htm#i473|NIELSDATTER|Abelone /NIELSDATTER/|||||
+i526.htm#i45|NIELSDATTER|Ane /NIELSDATTER/|||||
+i527.htm#i580|NIELSDATTER|Ane Marie /NIELSDATTER/|||||
+i528.htm#i694|NIELSDATTER|Dorte /NIELSDATTER/|||||
+i529.htm#i174|NIELSDATTER|Else Cathrine /NIELSDATTER/|1802|Medum, Ølgod|6-2-1881|Åstrup|
+i531.htm#i569|NIELSDATTER|Inger /NIELSDATTER/|||||
+i530.htm#i926|NIELSDATTER|Inger /NIELSDATTER/|10-1809|Sundbyvester Amager|||
+i532.htm#i526|NIELSDATTER|Karen /NIELSDATTER/|||||
+i533.htm#i120|NIELSDATTER|Kirsten /NIELSDATTER/|1772||||
+i534.htm#i579|NIELSEN|Anders /NIELSEN/ Gårdm.|||||
+i535.htm#i635|NIELSEN|Astrid Helene /NIELSEN/|7-11-1908|Hørve|||
+i536.htm#i504|NIELSEN|Bendix /NIELSEN/|1606||1672|Kolding|
+i537.htm#i79|NIELSEN|Bertha Kristine /NIELSEN/|12-10-1897|Guldager Vensyssel|24-5-1975||
+i538.htm#i342|NIELSEN|Carsten /NIELSEN/|19-4-1959||||
+i539.htm#i644|NIELSEN|Chresten /NIELSEN/ Spinder|||||
+i540.htm#i441|NIELSEN|Christen /NIELSEN/ Forpagter|||||
+i541.htm#i351|NIELSEN|Christina Ravn /NIELSEN/|7-9-1986||||
+i542.htm#i436|NIELSEN|Ellen Marie /NIELSEN/|||||
+i543.htm#i638|NIELSEN|Else Johanne /NIELSEN/|17-6-1913|Hørve|||
+i544.htm#i641|NIELSEN|Emma Karoline /NIELSEN/|5-1-1906|Hørve|||
+i545.htm#i636|NIELSEN|Frederik Ferdinand /NIELSEN/|5-5-1910|Hørve|||
+i547.htm#i14|NIELSEN|Hans /NIELSEN/|||||
+i546.htm#i587|NIELSEN|Hans /NIELSEN/ Husmand &amp; Træskomager|29-6-1794|Ulsøe|||
+i548.htm#i36|NIELSEN|Hemming /NIELSEN/|||1755||
+i549.htm#i350|NIELSEN|Henning Bertel /NIELSEN/|22-2-1957||||
+i550.htm#i637|NIELSEN|Henry Birch /NIELSEN/|17-4-1912|Hørve|||
+i551.htm#i634|NIELSEN|Ingrid Margrethe /NIELSEN/|27-1-1907|Hørve|||
+i552.htm#i21|NIELSEN|Jens /NIELSEN/|1703||1763||
+i553.htm#i466|NIELSEN|Jes /NIELSEN/|Ca. 1749|Gundesbøl, Hemmet Sogn, Ringkøbing Amt|7-2-1815|Ådum Sogn, Ringkøbing Amt|
+i554.htm#i866|NIELSEN|Jochum /NIELSEN/ Forpagter Giesegård|||||
+i555.htm#i609|NIELSEN|Johanne Marie /NIELSEN/|20-2-1916|Hørve|24-1-1987|Fredriksund sygehus|
+i556.htm#i328|NIELSEN|Jørgen /NIELSEN/|7-4-1951||||
+i557.htm#i449|NIELSEN|Karen Sofie /NIELSEN/|18-3-1846|Dalby|||
+i558.htm#i286|NIELSEN|Kent Høier /NIELSEN/|22-8-1968||||
+i559.htm#i575|NIELSEN|Lars /NIELSEN/|||||
+i560.htm#i502|NIELSEN|Lauge /NIELSEN/|||4-2-1658||
+i561.htm#i352|NIELSEN|Louise Ravn /NIELSEN/|31-3-1988||||
+i562.htm#i639|NIELSEN|Marie Dosine /NIELSEN/|16-8-1917|Hørve|||
+i563.htm#i640|NIELSEN|Martha Christine /NIELSEN/|3-10-1919|Hørve|||
+i564.htm#i620|NIELSEN|Martin Laub /NIELSEN/|Ca. 1966||||
+i565.htm#i329|NIELSEN|Mathilde /NIELSEN/|18-2-1996||||
+i566.htm#i570|NIELSEN|Peder /NIELSEN/ Fisker|Ca. 1729||||
+i567.htm#i353|NIELSEN|Simone Ravn /NIELSEN/|7-7-1993||||
+i568.htm#i615|NIELSEN|Søren Godtfred /NIELSEN/ Møllermester|20-6-1874|Alsted Sorø ant|||
+i569.htm#i209|NISSEN|/NISSEN/|||||
+i570.htm#i688|NISSEN|Christian Ditlev Høeg /NISSEN/|||||
+i571.htm#i246|NUTZHORN|Olga /NUTZHORN/|||||
+i572.htm#i886|NYHOLM|Achsa /NYHOLM/|1905||||
+i573.htm#i664|NYHOLM|Alvilde Emilie /NYHOLM/|2-3-1834|Bjørnsholm Ålborg amt|||
+i574.htm#i809|NYHOLM|Anders Gjedde /NYHOLM/ Officer|1861||1939||
+i575.htm#i681|NYHOLM|Andrea  Adellaide /NYHOLM/|1830||||
+i576.htm#i768|NYHOLM|Andrea Adeleide /NYHOLM/|28-8-1829||5-9-1829||
+i577.htm#i666|NYHOLM|Andrea Wilhelmine /NYHOLM/|Ca. 1869|Høielse Roskilde amt|||
+i578.htm#i662|NYHOLM|Andreas Christian /NYHOLM/ Forpagter|26-8-1791|Søllerød Sokkelund, Københavns amt|16-4-1881|Vilsted by Slet herred Ålborg amt|
+i579.htm#i653|NYHOLM|Andreas Vilhelm /NYHOLM/ Plantagebestyrer|22-12-1872|Mygdal Hjørring|1943|Frankrig|
+i580.htm#i880|NYHOLM|Anna /NYHOLM/|1900||||
+i581.htm#i888|NYHOLM|Anna J. /NYHOLM/|1816||1902||
+i582.htm#i795|NYHOLM|Anna Line Christine /NYHOLM/|8-4-1892|Stubbekøbing|||
+i583.htm#i654|NYHOLM|Arne /NYHOLM/|Ca. 1914|St Croix Virgin Islands USA|||
+i584.htm#i821|NYHOLM|Asger /NYHOLM/ Seminarierektor dr. teol|3-8-1901|Frederiksberg|||
+i585.htm#i803|NYHOLM|Birgitte S. Frederikke /NYHOLM/|1791||1834||
+i586.htm#i657|NYHOLM|Birgitte Vilhelmine Charlotte /NYHOLM/|22-6-1836|Haarlev|||
+i587.htm#i793|NYHOLM|Carl Cilius /NYHOLM/ Vice skoleinspektør|6-12-1871|Grinderslev Salling|||
+i588.htm#i826|NYHOLM|Carl Frederik Samuel /NYHOLM/ Overretsprokurator &amp; Bankdirektør|27-4-1810|Turebyholm|24-6-1869|Frederiksberg|
+i589.htm#i810|NYHOLM|Carl Frederik Vandborg Stjernhelm /NYHOLM/ Retsformand|1878||1949||
+i590.htm#i727|NYHOLM|Carl Laurentius Virenfeldt /NYHOLM/|1827|Bregninge, Ringkøbing amt|13-12-1876|Bjørnsholm Ålborg amt|
+i591.htm#i781|NYHOLM|Caroline Birgitte /NYHOLM/|1782||1844||
+i592.htm#i811|NYHOLM|Carthon Kristoffer Valdemar /NYHOLM/ Jurist &amp; Politiker|30-6-1829|Nyborg|16-5-1912|Søllerød Sokkelund, Københavns amt|
+i593.htm#i900|NYHOLM|Charlotte C. /NYHOLM/|1757||1825||
+i594.htm#i867|NYHOLM|Chr Frederik J. /NYHOLM/ Magister|1710||||
+i595.htm#i708|NYHOLM|Christian Frederik /NYHOLM/|||||
+i596.htm#i679|NYHOLM|Christofine Nicoline /NYHOLM/|1824||||
+i598.htm#i777|NYHOLM|Christopher /NYHOLM/ Sognepræst|1750||15-11-1826||
+i597.htm#i780|NYHOLM|Christopher /NYHOLM/ Sognepræst|1781||22-1-1859||
+i599.htm#i800|NYHOLM|Christopher J. /NYHOLM/ Præst|1712||1768|Slaglille|
+i600.htm#i829|NYHOLM|Dagmar /NYHOLM/|4-7-1854|Vejslev kloster|10-6-1936|København|
+i601.htm#i808|NYHOLM|Didrik Galtrup Gjedde /NYHOLM/ Jurist Etatsråd|21-6-1858|Randers|31-8-1931|København|
+i602.htm#i784|NYHOLM|Dorothea Charlotte Elisabet /NYHOLM/|1786||||
+i603.htm#i796|NYHOLM|Edvard Würmfeldt /NYHOLM/ Præst|19-8-1903|København|||
+i604.htm#i815|NYHOLM|Ellen /NYHOLM/|1874||1946||
+i605.htm#i824|NYHOLM|Else Birgitte /NYHOLM/|1793||1867||
+i606.htm#i670|NYHOLM|Emma Elisabeth /NYHOLM/|5-7-1835|Bjørnsholm Ålborg amt|||
+i607.htm#i832|NYHOLM|Erik Halfdan /NYHOLM/ Officer &amp; Direktør|1903||||
+i608.htm#i680|NYHOLM|Frederikke Christiane /NYHOLM/|1826||||
+i609.htm#i779|NYHOLM|Friderich Würmfeld /NYHOLM/|1779-1780|Sæby|||
+i610.htm#i799|NYHOLM|Georgina /NYHOLM/|1795||1872||
+i611.htm#i665|NYHOLM|Georgine Helga /NYHOLM/|Ca. 1868|Nykøbing Thisted amt|||
+i612.htm#i902|NYHOLM|Gunild /NYHOLM/|1754||1836||
+i613.htm#i790|NYHOLM|Gunnar /NYHOLM/|7-1919|St Croix Virgin Islands USA|||
+i614.htm#i818|NYHOLM|Hans Alfred /NYHOLM/ Søofficer|1898||1964||
+i615.htm#i828|NYHOLM|Hans Christian /NYHOLM/ Kreditforeningsdirektør|1832||1914||
+i616.htm#i813|NYHOLM|Hans Christopher /NYHOLM/ Skibsredder|1838||1905||
+i617.htm#i791|NYHOLM|Helga Andrea /NYHOLM/|5-1-1876|Mygdal Hjørring|||
+i618.htm#i830|NYHOLM|Helge /NYHOLM/ Operasanger|1892||1954||
+i619.htm#i882|NYHOLM|Holga /NYHOLM/|1871||1945||
+i620.htm#i869|NYHOLM|Holger C. J. /NYHOLM/ Magister|Ca. 1708||||
+i621.htm#i820|NYHOLM|Holger Vilhelm /NYHOLM/ Officer Landinspektør|28-2-1862|Nibe|27-1-1929|Frederiksberg|
+i622.htm#i798|NYHOLM|Holger Wilhelm /NYHOLM/ Præst|1792||1881||
+i623.htm#i785|NYHOLM|Inga Pauli /NYHOLM/|8-12-1923|St Croix Virgin Islands USA|||
+i624.htm#i817|NYHOLM|Iver Andreas /NYHOLM/ Kontorchef|1864||1953||
+i625.htm#i678|NYHOLM|Jacobine Cathrine /NYHOLM/|1823||||
+i626.htm#i837|NYHOLM|Jens Peter /NYHOLM/ Universitetsbibliotekar|24-7-1900|Hjørring|||
+i627.htm#i822|NYHOLM|Joachim Gottsche /NYHOLM/ Forstråd Skovridder|1799||1876||
+i628.htm#i783|NYHOLM|Jochum Severin /NYHOLM/ Læge|1784||1834||
+i629.htm#i831|NYHOLM|Johan Christian /NYHOLM/ Postmester|1866||1947||
+i630.htm#i823|NYHOLM|Johannes /NYHOLM/ Kontreadmiral|27-4-1858|Valdemarslund v Helsingør|26-10-1941|Frederiksberg|
+i631.htm#i827|NYHOLM|Johannes Christopher /NYHOLM/ Landmand &amp; Politiker|24-11-1803|Turebyholm|28-1-1867|Baggesvogn|
+i632.htm#i656|NYHOLM|Johannes Edvard August /NYHOLM/ Forpagter|17-8-1837|Bjørnsholm Ålborg amt|2-6-1902|København|
+i633.htm#i834|NYHOLM|Johannes Peter /NYHOLM/ Missionspræst|1863||1937||
+i634.htm#i782|NYHOLM|Johannes Schrøder /NYHOLM/|1783||||
+i635.htm#i802|NYHOLM|Johannes Scrøder /NYHOLM/ Toldkasserer|1747||1819||
+i636.htm#i682|NYHOLM|Josephine Vilhelmine Birgitte /NYHOLM/|1832||1853||
+i637.htm#i877|NYHOLM|Knud /NYHOLM/ Vice direktør forsikring|1897||||
+i638.htm#i806|NYHOLM|Lars Christian /NYHOLM/ Godsinspektør &amp; Justitsråd|1758||1824||
+i639.htm#i819|NYHOLM|Lars Christian Christopher /NYHOLM/ Præst|1821||1901||
+i640.htm#i807|NYHOLM|Lauritz /NYHOLM/ Kaptajn Hofjægermester|27-8-1823|Nykøbing Mors|7-7-1882|København|
+i642.htm#i814|NYHOLM|Nicolai /NYHOLM/|1846||1921||
+i641.htm#i812|NYHOLM|Nicolai /NYHOLM/ Godsejer|1788||1874||
+i643.htm#i904|NYHOLM|Nicolette /NYHOLM/|1763||1837||
+i644.htm#i836|NYHOLM|Paul Christian Edvard /NYHOLM/ Professor i kirkehistorie|1895||1977||
+i645.htm#i871|NYHOLM|Sofie Beate J /NYHOLM/|1822||1859||
+i646.htm#i835|NYHOLM|Søren Vinkel /NYHOLM/ Provst i Holstebro|1866||1947||
+i647.htm#i667|NYHOLM|Thora Birgitte /NYHOLM/|7-1-1877|Odden Hjøring amt|26-2-1913|København|
+i648.htm#i789|NYHOLM|Thora Else /NYHOLM/|||||
+i649.htm#i655|NYHOLM|Torben Würnfeldt /NYHOLM/|23-10-1915|Fredmans Bag St Thomas Virgin Islands USA|||
+i650.htm#i884|NYHOLM|Valdemar /NYHOLM/ Cand. Pharm|1868||1936||
+i651.htm#i669|NYHOLM|Vilhelm Christian /NYHOLM/|7-4-1839|Bjørnsholm Ålborg amt|||
+i652.htm#i797|NYHOLM|Vilhelm Würmfeldt /NYHOLM/|21-5-1905|København|||
+i653.htm#i668|NYHOLM|Wilhelm Christian /NYHOLM/|3-4-1842|Bjørnsholm Ålborg amt|||
+i654.htm#i618|NØRREGÅRD|Elly /NØRREGÅRD/ Kontorass.|24-12-1930|Vejleby Ferslev sogn Hornsherred|||
+i655.htm#i625|NØRREGÅRD|Kresten Pedersen /NØRREGÅRD/ Parselist|10-7-1899||||
+i656.htm#i899|NØRRELUND|Solvej /NØRRELUND/|||||
+i657.htm#i384|OBELITZ|Ellen Marie /OBELITZ/|1678||1727||
+i658.htm#i178|OLESEN|Hans /OLESEN/|||||
+i659.htm#i554|OLSDATTER|Johanne Marie /OLSDATTER/|Ca. 1859|Vejlø|||
+i660.htm#i551|OLSDATTER|Karen Sofie /OLSDATTER/|1844|Vejlø|||
+i661.htm#i553|OLSDATTER|Maren Marie /OLSDATTER/|Ca. 1855|Vejlø|||
+i663.htm#i123|OLSEN|Claus /OLSEN/|1772|St.Ryttinge|1773|3/4 År Gammel|
+i662.htm#i28|OLSEN|Claus /OLSEN/|1774|St. Ryttinge|1851|Åside|
+i664.htm#i428|OLSEN|Edith Gudrun /OLSEN/|19-7-1909|Toksværd|7-2-1956|Amtssygehuset Næstved|
+i665.htm#i552|OLSEN|Eilert /OLSEN/|Ca. 1847|Vejlø|||
+i666.htm#i876|OLSEN|Ester Rigmor Stigsager /OLSEN/||Lunde|||
+i667.htm#i124|OLSEN|Gyde /OLSEN/|10-1776|St.Ryttinge|||
+i669.htm#i126|OLSEN|Hans /OLSEN/|1781|St.Ryttinge|1784||
+i668.htm#i583|OLSEN|Hans /OLSEN/ gdrm. i Vinderup|||||
+i670.htm#i460|OLSEN|Ikke Navngivet /OLSEN/|24-12-1910|Toksværd|||
+i672.htm#i556|OLSEN|Jens /OLSEN/|5-8-1842|Vejlø|||
+i671.htm#i557|OLSEN|Jens /OLSEN/|1788|Lille Næstved|||
+i673.htm#i450|OLSEN|Jens Peder /OLSEN/ Parcelist|5-8-1842|Vejlø|||
+i674.htm#i130|OLSEN|Karen /OLSEN/|1793|St. Ryttinge|23-6-1793|St.Ryttinge|
+i675.htm#i122|OLSEN|Kirsten /OLSEN/|1771|St.Ryttinge|||
+i676.htm#i125|OLSEN|Lars /OLSEN/|21-3-1779|St.Ryttinge|||
+i677.htm#i288|OLSEN|Lisbeth Lomholdt /OLSEN/|||||
+i678.htm#i459|OLSEN|Magnus /OLSEN/|20-6-1902|Toksværd|||
+i679.htm#i127|OLSEN|Maren /OLSEN/|1785|St.Ryttinge|1806||
+i680.htm#i46|OLSEN|Niels /OLSEN/|||||
+i682.htm#i129|OLSEN|Peder /OLSEN/|1788|St.Ryttinge|1794|St. Ryttinge|
+i683.htm#i131|OLSEN|Peder /OLSEN/|1794|St.Ryttinge|26-3-1797|St.Ryttinge|
+i681.htm#i596|OLSEN|Peder /OLSEN/ Bonde &amp; gårdbeboer|Ca. 1758||||
+i684.htm#i431|OLSEN|Poul Kristian /OLSEN/ Husmand|20-9-1872|Toksværd|||
+i685.htm#i626|OLSEN|Thelse /OLSEN/|||||
+i686.htm#i511|OLUFSDATTER|Elisa /OLUFSDATTER/|1607|Lemvig|18-11-1664|Lemvig|
+i687.htm#i513|OLUFSEN|Jep /OLUFSEN/|Ca. 1550||16-1-1626|Lemvig|
+i688.htm#i730|OLUFSEN|Peder /OLUFSEN/|1693||1750||
+i689.htm#i295|OSVANG|Erna /OSVANG/|17-3-1931||||
+i690.htm#i92|OTZEN|Anna /OTZEN/|14-3-1903||3-1-1969||
+i691.htm#i936|PALMUND|Mikkel /PALMUND/|29-9-1969||||
+i692.htm#i934|PALMUND|Sara /PALMUND/|26-2-1992|Køge Sygehus|||
+i693.htm#i901|PALUDAN|F.H. /PALUDAN/|||||
+i694.htm#i151|PAULI|Ferdinand Adolph /PAULI/|1803||1875||
+i695.htm#i650|PAULI|Gertrud /PAULI/|23-6-1879||||
+i696.htm#i652|PAULI|Gustav Otto /PAULI/|23-7-1874|København|||
+i697.htm#i49|PAULI|Hedvig Ingeborg Caroline /PAULI/|31-7-1868|Sankt Petri KBH|17-7-1962|Frederiksberg|
+i698.htm#i658|PAULI|Helene /PAULI/|Ca. 1863|Sachsen Tyskland|||
+i699.htm#i651|PAULI|Hugo Oskar /PAULI/|23-7-1874|København|||
+i700.htm#i147|PAULI|Ida Agnes Aurora /PAULI/|2-11-1872|Sankt Petri KBH|||
+i701.htm#i50|PAULI|Johan Georg Leander /PAULI/ Zylograf/Redaktør|12-9-1838|Rocklitz I Kongeriget Sachsen|16-2-1928|Frederiksberg|
+i702.htm#i648|PAULI|Karl /PAULI/|8-9-1881||||
+i703.htm#i146|PAULI|Nanny Kardi /PAULI/|7-4-1880||||
+i704.htm#i659|PAULI|Olivia Eleonora Renarda (Lori) /PAULI/|15-8-1883|København|20-7-1958|Østervold København|
+i705.htm#i646|PAULI|Wilhelm Leander Waldemar /PAULI/|11-4-1873|Sankt Petri KBH|||
+i706.htm#i24|PEDERDATTER|Ane /PEDERDATTER/|1706||1760||
+i708.htm#i559|PEDERSDATTER|Ane /PEDERSDATTER/|Ca. 1803||22-10-1831|Appenæs|
+i707.htm#i602|PEDERSDATTER|Ane /PEDERSDATTER/|Ca. 1800|Rhode by|||
+i709.htm#i686|PEDERSDATTER|Ane Margrethe /PEDERSDATTER/|Ca. 1737|Stigs Bjergby|17-5-1807|Frydendal mølle Holbæk amt|
+i710.htm#i410|PEDERSDATTER|Anna /PEDERSDATTER/|7-10-1828|Lintrup Tornumgårds skou|24-9-1895|Bæk|
+i711.htm#i33|PEDERSDATTER|Birte /PEDERSDATTER/|1640||1723|Lille Ryttinge|
+i712.htm#i567|PEDERSDATTER|Birthe /PEDERSDATTER/|Ca. 1772|Formodentlig Herlufsholm|11-1826|Appenæs|
+i713.htm#i729|PEDERSDATTER|Else /PEDERSDATTER/|1706|Udby|1770|Krøjerup|
+i714.htm#i38|PEDERSDATTER|Karen /PEDERSDATTER/|1747||1792||
+i715.htm#i600|PEDERSDATTER|Karen /PEDERSDATTER/|Ca. 1794|Rhode by|||
+i716.htm#i34|PEDERSDATTER|Kirsten /PEDERSDATTER/|1688||1735|Lille Ryttinge|
+i717.htm#i571|PEDERSDATTER|Maren /PEDERSDATTER/|Ca. 1763|Appenæs|||
+i718.htm#i26|PEDERSDATTER|Mette Marie /PEDERSDATTER/|19-9-1843|Åside|22-4-1930|Åside|
+i719.htm#i757|PEDERSDATTER|Mette Marie /PEDERSDATTER/|1743|Bregninge|||
+i720.htm#i758|PEDERSDATTER|Mette Marie /PEDERSDATTER/|1746||||
+i721.htm#i588|PEDERSDATTER|Sara /PEDERSDATTER/|Ca. 1798|Dalby|||
+i722.htm#i601|PEDERSEN|Anders /PEDERSEN/|Ca. 1796|Rhode by|||
+i723.htm#i628|PEDERSEN|Anna Kirstine /PEDERSEN/|Ca. 1853||||
+i724.htm#i331|PEDERSEN|Bjarne /PEDERSEN/|12-6-1952||||
+i725.htm#i645|PEDERSEN|Caroline /PEDERSEN/|Ca. 1831||||
+i726.htm#i332|PEDERSEN|Claus /PEDERSEN/|11-8-1982||||
+i728.htm#i165|PEDERSEN|Hans /PEDERSEN/|||||
+i727.htm#i929|PEDERSEN|Hans /PEDERSEN/|1851||||
+i729.htm#i930|PEDERSEN|Hans Oscar Vilhelm /PEDERSEN/|2-11-1876|Rødovre|||
+i731.htm#i43|PEDERSEN|Jens /PEDERSEN/|1782||1824||
+i732.htm#i469|PEDERSEN|Jens /PEDERSEN/|7-1721||||
+i730.htm#i548|PEDERSEN|Jens /PEDERSEN/|7-1721|Bjølbøl, Aadum Sogn, Ringkøbing Amt|||
+i733.htm#i327|PEDERSEN|Jesper Grønbæk /PEDERSEN/|21-6-1982||17-9-1998||
+i734.htm#i326|PEDERSEN|Kenneth Grønbæk /PEDERSEN/|11-10-1979||||
+i735.htm#i325|PEDERSEN|Kurt Grønbæk /PEDERSEN/|||||
+i736.htm#i756|PEDERSEN|Lars /PEDERSEN/|1740||15-2-1741|Stigs Bjergby|
+i737.htm#i630|PEDERSEN|Marie Sophie /PEDERSEN/|||||
+i738.htm#i316|PEDERSEN|Mette /PEDERSEN/|||||
+i739.htm#i41|PEDERSEN|Morten /PEDERSEN/|||||
+i740.htm#i470|PEDERSEN|Niels Hansen /PEDERSEN/|Ca. 1776||5-10-1863||
+i742.htm#i598|PEDERSEN|Ole /PEDERSEN/|Ca. 1790|Rode|||
+i741.htm#i755|PEDERSEN|Ole /PEDERSEN/|9-1738||9-11-1741|Stigs Bjergby|
+i743.htm#i572|PEDERSEN|Peder /PEDERSEN/|Ca. 1776|Appenæs|||
+i744.htm#i411|PEDERSEN|Peder /PEDERSEN/ Parselbeboer|||||
+i745.htm#i599|PEDERSEN|Poul /PEDERSEN/|Ca. 1792|Rhode by|||
+i746.htm#i333|PEDERSEN|Stinne /PEDERSEN/|27-2-1986||||
+i747.htm#i12|PEDERSEN|Søren /PEDERSEN/|1814||1865||
+i748.htm#i516|PEDERSEN|Ude /PEDERSEN/|1578|Kolding|14-11-1641|Kolding|
+i749.htm#i172|PEJTERSEN|Børge Hviid /PEJTERSEN/ Ingeniør|21-9-1939|Odense|||
+i750.htm#i354|PETERSEN|Conni Ravn /PETERSEN/|15-4-1963||||
+i751.htm#i358|PETERSEN|Henrik Ravn /PETERSEN/|22-9-1965||||
+i752.htm#i361|PETERSEN|Kenny Ravm /PETERSEN/|30-12-1987||||
+i753.htm#i367|PETERSEN|Palle Ravn /PETERSEN/|31-7-1978||||
+i754.htm#i348|PETERSEN|Peter /PETERSEN/|8-8-1935||||
+i755.htm#i363|PETERSEN|Ruth Ravn /PETERSEN/|4-1-1968||||
+i756.htm#i362|PETERSEN|Steffie Ravn /PETERSEN/|21-5-1990||||
+i757.htm#i349|PETERSEN|Susanne Ravn /PETERSEN/|6-8-1961||||
+i758.htm#i692|PLAMBECH|Carl Christian /PLAMBECH/|||||
+i759.htm#i597|POULSDATTER|Johanne /POULSDATTER/|Ca. 1764||||
+i760.htm#i603|POULSDATTER|Maren /POULSDATTER/ Enke|Ca. 1737||||
+i761.htm#i397|POULSEN|Anne Marie /POULSEN/|||||
+i762.htm#i458|POULSEN|Dorthea Cecilie /POULSEN/|Ca. 1865|Fodby sogn|||
+i763.htm#i234|POULSEN|Karen /POULSEN/|||1777||
+i764.htm#i451|POULSEN|Karen Kirstine /POULSEN/|Ca. 1849|Bistrup by Fodby sogn|12-11-1875|Toksværd|
+i765.htm#i456|POULSEN|Knud Frederik /POULSEN/|Ca. 1859|Fodby sogn|||
+i766.htm#i454|POULSEN|Lars /POULSEN/|Ca. 1838|Fodby sogn|||
+i767.htm#i457|POULSEN|Maren Sofie /POULSEN/|Ca. 1852|Fodby sogn|||
+i768.htm#i455|POULSEN|Niels /POULSEN/|Ca. 1845|Fodby sogn|||
+i769.htm#i294|POULSEN|Paw Holm Houmann /POULSEN/|8-2-1964||||
+i770.htm#i422|QURUP|Ellen Maria /QURUP/|1808|Nustrup|||
+i771.htm#i520|RAFN|Jens Pedersen /RAFN/|1540|Smidstrup|1621|Smidstrup|
+i772.htm#i519|RAFN|Lene Jensdatter /RAFN/|1570||Efter 1631|Vester Nebel|
+i773.htm#i521|RAFN|Peder Laugesen /RAFN/|Før 1529||1571||
+i774.htm#i702|RANDRUP|Dorthe Cathrine /RANDRUP/|1685||1759|Hjembæk Holbæk|
+i775.htm#i444|RASMUSDATTER|Karen /RASMUSDATTER/|1801|Jægerspris gods|17-7-1844|Dalbye|
+i776.htm#i879|RASMUSSEN|Ane K. /RASMUSSEN/|||||
+i777.htm#i322|RASMUSSEN|Dennis Rene /RASMUSSEN/|12-5-1979||||
+i778.htm#i334|RASMUSSEN|Edith /RASMUSSEN/|5-1-1936||16-8-1975||
+i779.htm#i794|RASMUSSEN|Elisabeth /RASMUSSEN/|27-11-1876|Stubbekøbing|||
+i780.htm#i728|RASMUSSEN|Hans /RASMUSSEN/|1690||1765|Krøjerup|
+i781.htm#i321|RASMUSSEN|Kjeld /RASMUSSEN/|19-6-1954||||
+i782.htm#i323|RASMUSSEN|Miki Rune /RASMUSSEN/|2-3-1983||||
+i783.htm#i565|RASMUSSEN|Ole /RASMUSSEN/ Gårdmand|Ca. 1745||22-4-1799|Lille Næstved|
+i784.htm#i734|RASMUSSEN LASSEN BRENDSTRUP|Jens /RASMUSSEN LASSEN BRENDSTRUP/|||||
+i785.htm#i86|RAVN|Arne /RAVN/|17-12-1928||||
+i786.htm#i339|RAVN|Bibi /RAVN/|18-1-1963||||
+i787.htm#i300|RAVN|Britta Osvang /RAVN/|3-11-1955||||
+i788.htm#i308|RAVN|Casper Osvang /RAVN/|22-3-1990||||
+i789.htm#i306|RAVN|Dennis Osvang /RAVN/|26-1-1982||27-1-2002||
+i790.htm#i296|RAVN|Else Osvang /RAVN/|3-11-1955||||
+i791.htm#i87|RAVN|Ester /RAVN/|5-10-1930||||
+i792.htm#i85|RAVN|Johannes /RAVN/|2-10-1904||24-1-1983||
+i793.htm#i89|RAVN|Kaj /RAVN/|14-12-1934||||
+i794.htm#i335|RAVN|Lene /RAVN/|18-2-1961||||
+i795.htm#i347|RAVN|Linette Trankjær /RAVN/|2-3-1999||||
+i796.htm#i307|RAVN|Louise Osvang /RAVN/|20-1-1985||||
+i797.htm#i346|RAVN|Maiken Trankjær /RAVN/|20-9-1992||||
+i798.htm#i304|RAVN|Ole Osvang /RAVN/|8-6-1957||||
+i799.htm#i344|RAVN|Tage /RAVN/|30-6-1968||||
+i800.htm#i90|RAVN|Tinne /RAVN/|14-8-1941||||
+i801.htm#i88|RAVN|Tove /RAVN/|2-10-1932||12-3-1990||
+i802.htm#i309|RAVNBISCHOFF|Per Osvang /RAVNBISCHOFF/|16-11-1964||||
+i803.htm#i230|REENBERG|Margrethe Clausdatter /REENBERG/|||1722||
+i804.htm#i851|RISTING|Jenny Augusta /RISTING/|28-5-1844|Drammen|30-11-1920|København|
+i805.htm#i852|RISTING|Jonas /RISTING/ Skibsredder|1806||1873||
+i806.htm#i713|ROCHOW|Regina /ROCHOW/|||||
+i807.htm#i393|ROSENKRANTZ|Karen /ROSENKRANTZ/|||||
+i808.htm#i408|ROSFELDT|Nina Talita /ROSFELDT/ Bogholder|23-12-1974|Greve|||
+i809.htm#i289|ROTHE|Lene /ROTHE/|||||
+i810.htm#i846|RUBENS|Charlotte Amalie /RUBENS/|1783||1871||
+i811.htm#i216|SAND|Helene Kirstine /SAND/|1781|Glomstrup|1849||
+i812.htm#i182|SCHELDE|Hans Peter /SCHELDE/|||||
+i813.htm#i181|SCHELDE|Karen /SCHELDE/|||||
+i814.htm#i154|SCHRAMM|Renate /SCHRAMM/|||||
+i815.htm#i849|SCHRØDER|Conrad Christian Frederik /SCHRØDER/ Hofjuveler|1794||1865||
+i816.htm#i801|SCHRØDER|Elisabeth /SCHRØDER/|||||
+i817.htm#i848|SCHRØDER|Rosalinde /SCHRØDER/|19-7-1834|København Petri|12-8-1865|KBH|
+i818.htm#i153|SEEMANN|August /SEEMANN/ Proprietær|||||
+i819.htm#i150|SEEMANN|Wilhelmine /SEEMANN/ Tysklærer|18-7-1844|Greifenhain Sachsen|21-8-1903|København (Simeons)|
+i820.htm#i317|SKOV|Charlotte /SKOV/|13-1-1981||||
+i821.htm#i313|SKOV|Hans Christian /SKOV/|21-12-1928||||
+i822.htm#i315|SKOV|Henning /SKOV/|21-2-1955||||
+i823.htm#i314|SKOV|Jørgen /SKOV/|19-5-1951||||
+i824.htm#i318|SKOV|Michael /SKOV/|16-4-1982||||
+i825.htm#i622|SKOVMØLLER|Carina Christine /SKOVMØLLER/|10-11-1975||||
+i826.htm#i529|SMED|Niels /SMED/|1510|Vejle|23-8-1575|Jelling|
+i827.htm#i507|SMIDT|Else Pedersdatter /SMIDT/|30-8-1678|Lemvig|11-11-1748|Sdr Nissum|
+i828.htm#i508|SMIDT|Peder Nielsen /SMIDT/|1629|Husby|1683||
+i829.htm#i383|SOLGAARD|Christen Jepsen /SOLGAARD/|1580|Linde I Asp Sogn|2-11-1656||
+i830.htm#i374|SOLGAARD|Dorthea Nielsdatter /SOLGAARD/|4-3-1639|Holstebro, Ringkøbing Amt|12-8-1685|København|
+i831.htm#i375|SOLGAARD|Niels Sørensen /SOLGAARD/ Købmand &amp; Borgmester|Ca. 1591||1668|Holstebro|
+i832.htm#i859|STRANDGÅRD|Niels Julius /STRANDGÅRD/ Distriktslæge|1832||1914||
+i833.htm#i838|STRANDGÅRD|Thora Laura Vilhelmine /STRANDGÅRD/|5-1-1864|Odder|28-11-1902|Vordingborg|
+i834.htm#i776|STRARUP|Anna Margarethe Auguste /STRARUP/|1827||||
+i835.htm#i770|STRARUP|Jens Carl /STRARUP/|1772||1838||
+i836.htm#i769|STRARUP|Johan Ludvig /STRARUP/ Lærer|1825||||
+i837.htm#i774|STRARUP|Knud Nielsen /STRARUP/ Gartner|||||
+i838.htm#i336|SUNDBÆK|Carsten /SUNDBÆK/|15-8-1962||||
+i839.htm#i223|SVANE|Mette Cathrine /SVANE/|1678||1746||
+i840.htm#i225|SVANE|Tomas /SVANE/|||||
+i841.htm#i517|SØRENSDATTER|Maren /SØRENSDATTER/|1593|Kolding|10-6-1640|Kolding|
+i842.htm#i533|SØRENSDATTER|Sidsel /SØRENSDATTER/|1590||||
+i843.htm#i71|SØRENSEN|Alice /SØRENSEN/|||||
+i844.htm#i894|SØRENSEN|Asger Lund /SØRENSEN/|||||
+i845.htm#i892|SØRENSEN|Carl Christian /SØRENSEN/|1864||1934||
+i846.htm#i343|SØRENSEN|Connie /SØRENSEN/|||||
+i847.htm#i475|SØRENSEN|Else Catrine Pedersdatter /SØRENSEN/|Ca. 1745|Timgaard Tim Sogn|1-12-1796|Ølgod|
+i848.htm#i74|SØRENSEN|Else Marno /SØRENSEN/|6-12-1923||22-12-1987||
+i850.htm#i63|SØRENSEN|Frederikke /SØRENSEN/|16-3-1886||21-3-1886||
+i849.htm#i64|SØRENSEN|Frederikke /SØRENSEN/|29-9-1887||11-5-1888||
+i851.htm#i83|SØRENSEN|Gudrun /SØRENSEN/|26-9-1936|Gunderup- Vrejlev Sogn Jylland|||
+i852.htm#i898|SØRENSEN|Gunner Lund /SØRENSEN/|||||
+i854.htm#i69|SØRENSEN|Hans /SØRENSEN/|6-5-1892|St. Anst|24-5-1983|Bispebjerg Kirkegård|
+i853.htm#i11|SØRENSEN|Hans /SØRENSEN/ Gårdejer|22-9-1843||3-6-1871|Snesere Kirkegård|
+i855.htm#i890|SØRENSEN|Hans Sophus /SØRENSEN/ Biskop i Århus|1856||1936||
+i856.htm#i896|SØRENSEN|Henning Lund /SØRENSEN/|||||
+i857.htm#i293|SØRENSEN|Jeppe Norup Marno /SØRENSEN/|17-3-1998||||
+i858.htm#i65|SØRENSEN|Jermine /SØRENSEN/|1-11-1889|Gejsing|4-6-1964|Odense|
+i859.htm#i889|SØRENSEN|Johannes Ludvig M. /SØRENSEN/ Lærer i Vig||Sæby|||
+i860.htm#i78|SØRENSEN|Karl /SØRENSEN/|18-9-1897|St. Anst|3-9-1990||
+i861.htm#i53|SØRENSEN|Kirsten Marie /SØRENSEN/|7-4-1880|Gejsing|17-7-1981||
+i862.htm#i59|SØRENSEN|Kirstine /SØRENSEN/|5-7-1882|Gejsing|2-3-1954|Skanderup Kirkegård|
+i863.htm#i142|SØRENSEN|Lene Anette /SØRENSEN/|20-3-1960|Göteborg|||
+i864.htm#i77|SØRENSEN|Lene Marno /SØRENSEN/|||||
+i865.htm#i292|SØRENSEN|Malle Marno /SØRENSEN/|7-1-1990||||
+i866.htm#i72|SØRENSEN|Marno /SØRENSEN/|21-2-1895|St. Anst|30-8-1975||
+i867.htm#i54|SØRENSEN|Michael Jacob /SØRENSEN/ Boelsmand|29-1-1852|Gejsing|12-4-1930|Kolding|
+i868.htm#i184|SØRENSEN|Ole /SØRENSEN/|||||
+i869.htm#i84|SØRENSEN|Olga Helene /SØRENSEN/|7-2-1900|St. Anst|10-9-1972|Skanderup Kirkegård|
+i870.htm#i476|SØRENSEN|Peder /SØRENSEN/|Ca. 1705|Sdr. Nissum|1760|Røkkergård Hanning|
+i871.htm#i76|SØRENSEN|Poul Marno /SØRENSEN/|20-8-1948||||
+i872.htm#i82|SØRENSEN|Rigmor /SØRENSEN/|14-12-1926|Gunderup- Vrejlev Sogn Jylland|12-7-1985|Næstved Sygehus|
+i873.htm#i81|SØRENSEN|Ruth /SØRENSEN/|11-1-1925|Gunderup - Vrejlev Sogn Jylland|||
+i874.htm#i264|SØRENSEN|Sille Thit /SØRENSEN/|7-5-2001||||
+i875.htm#i263|SØRENSEN|Sine Sofie /SØRENSEN/|07-08-19xx||||
+i876.htm#i534|SØRENSEN|Stephan /SØRENSEN/|1540-1550||||
+i877.htm#i262|SØRENSEN|Søren /SØRENSEN/|6-10-1947||||
+i878.htm#i61|SØRENSEN|Søren Frederik /SØRENSEN/|21-5-1884|Gejsing|||
+i879.htm#i290|SØRENSEN|Søs Norup /SØRENSEN/|||||
+i880.htm#i80|SØRENSEN|Vagn /SØRENSEN/|22-8-1923||||
+i881.htm#i62|SØRENSEN|Viola /SØRENSEN/|||||
+i882.htm#i937|SØRRENSEN|Pia /SØRRENSEN/|13-4-1972||||
+i883.htm#i161|TAKLA|Lars /TAKLA/|25-3-1993|Lilleström Norge|||
+i884.htm#i162|TAKLA|Lene /TAKLA/|4-11-1994|Lilleström Norge|||
+i885.htm#i163|TAKLA|Sine /TAKLA/|14-4-1996|Lilleström Norge|||
+i886.htm#i160|TAKLA|Thomas /TAKLA/|27-4-1960||||
+i887.htm#i235|TEILMANN|Christian /TEILMANN/|||||
+i888.htm#i232|TEILMANN|Magdalene /TEILMANN/|||17-11-1742||
+i889.htm#i405|THERKILDSEN JØRGENSEN|Jørgen /THERKILDSEN JØRGENSEN/|4-3-1892||14-11-1974||
+i890.htm#i736|THOMASEN|Peder /THOMASEN/ Møller|||||
+i891.htm#i368|THOMASEN|Pernille Munch /THOMASEN/|30-5-1976||||
+i892.htm#i435|THOMSEN|Kristen /THOMSEN/ Husmand|||||
+i893.htm#i337|THOMSEN|Peter Dieter /THOMSEN/|15-3-1957||||
+i894.htm#i338|THOMSEN|Thomas Ravn /THOMSEN/|29-11-1996||||
+i895.htm#i285|TROELSEN|Mette /TROELSEN/|21-4-1970||||
+i896.htm#i284|TROELSEN|Trine /TROELSEN/|21-4-1970||||
+i897.htm#i282|TROELSEN|Troels /TROELSEN/|12-11-1942||||
+i898.htm#i541|TULLISDATTER|/TULLISDATTER/|||||
+i899.htm#i484|UDESDATTER|Malene /UDESDATTER/|1624|Kolding|1659|Koldimg|
+i900.htm#i495|UDESDATTER|Mette /UDESDATTER/|1620|Kolding|13-12-1698|Kolding|
+i901.htm#i771|ULDALL|Antoniette Margrethe /ULDALL/|1789||1864||
+i902.htm#i772|ULDALL|Johannes /ULDALL/ Byfoged &amp; Landsdommer|||||
+i903.htm#i488|ULF|Hans Christensen /ULF/|1613||1676|Lindknud Sogn|
+i904.htm#i396|V. BASSE|Helle Gertrud /V. BASSE/|||||
+i905.htm#i532|VEERST|Christen Stephansen /VEERST/ Sognepræst|1570||1629|Vorbasse|
+i906.htm#i491|VEERST|Dorthe Christensdatter /VEERST/|Ca. 1605||Før 1684||
+i907.htm#i621|VEJLESBY|Carl Emil Laub Nielsen /VEJLESBY/|12-12-2007|Gentofte Sygehus|||
+i908.htm#i7|VEJLESBY|Christian /VEJLESBY/|10-3-1972|Næstved|||
+i909.htm#i132|VEJLESBY|Emil Råbjerg /VEJLESBY/|13-2-1997|Roskilde Sygehus|||
+i910.htm#i623|VEJLESBY|Frederik Skovmøller /VEJLESBY/|14-9-2009|Hillerød sygehus|||
+i911.htm#i5|VEJLESBY|Hans /VEJLESBY/ Revisor|9-11-1939|Ellebækvej 28 Næstved|18-11-2022|Slagelse Sygehus|
+i912.htm#i6|VEJLESBY|Janne /VEJLESBY/ Advokat|20-5-1969|Næstved|||
+i913.htm#i1|VEJLESBY|Joachim Peter Råbjerg /VEJLESBY/ Cand. Jur.|24-8-1993|Køge Sygehus|||
+i914.htm#i3|VEJLESBY|Jørgen /VEJLESBY/ Læge|6-9-1936|Amtssygehuset Næstved|6-4-2015|Herlev Sygehus|
+i915.htm#i935|VEJLESBY|Malde Palmund /VEJLESBY/|18-11-2021||||
+i916.htm#i57|VEJLESBY|Matthias Bo Råbjerg /VEJLESBY/ VVSmontør|26-4-1995|Roskilde Sygehus|||
+i917.htm#i2|VEJLESBY|Peter /VEJLESBY/ Overmotør VVS|16-9-1966|Glostrup|||
+i918.htm#i624|VEJLESBY|Victoria Skovmøller /VEJLESBY/|20-3-2012|Hillerød sygehus|||
+i919.htm#i463|VILLUMSEN|Jens /VILLUMSEN/|21-6-1733|Lintrup|||
+i920.htm#i241|VON BENZON|Christian Frederik /VON BENZON/|1786||1875||
+i921.htm#i773|VON BERGAN|Catharina /VON BERGAN/|||||
+i922.htm#i874|WANDBORG|Dorthea M. /WANDBORG/|||||
+i923.htm#i706|WARSAK|Christian Wilhelm /WARSAK/|||||
+i924.htm#i698|WEDEL|Caroline Kirstine Mathilde /WEDEL/|||||
+i925.htm#i870|WEGGE|Anne M. /WEGGE/|||||
+i926.htm#i885|WESCHE|Ellen /WESCHE/|||||
+i927.htm#i858|WIBROE|Anna Nicolette Brodera /WIBROE/|1837||1915||
+i928.htm#i687|WIENHOLDT|Eline Marie /WIENHOLDT/|||||
+i929.htm#i200|WINDE|Ingeborg /WINDE/|1792|Burholdt|1870|Ålborg|
+i930.htm#i863|WOOD|Amy Fredericka /WOOD/ Biblotekar|28-11-1907|London|15-5-1978|Santa Barbera Californien|
+i931.htm#i864|WOOD|Frederick Charles /WOOD/|1885||1970||
+i932.htm#i778|WÜRENFELDT|Beate Jacobine Birgitta /WÜRENFELDT/|1760||6-7-1821||
+i933.htm#i792|WÜRENFELDT|Frederik /WÜRENFELDT/|||||
+i934.htm#i248|ZYTPHEN|Ernst Friderich /ZYTPHEN/|1682||1756||
+i935.htm#i249|ZYTPHEN|Hedvig Cathrine /ZYTPHEN/|1735||24 1787||
+i936.htm#i389|ZYTPHEN|Jytte Dorthea /ZYTPHEN/|1733||22-2-1755||
+i937.htm#i853|ØRBY|Gustave /ØRBY/|1812||1861||
+i938.htm#i269|ØSTERGAARD|Marianne /ØSTERGAARD/|10-5-1956||||
